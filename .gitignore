@@ -1,0 +1,29 @@
+# Node.js dependencies (if using Node.js or any package manager like npm/yarn)
+node_modules/
+
+# Build output directories (e.g., for bundlers like Webpack, Vite, etc.)
+dist/
+build/
+
+# System files
+.DS_Store             # macOS Finder settings
+Thumbs.db             # Windows thumbnail cache
+
+# IDE and editor files
+.vscode/              # Visual Studio Code settings
+.idea/                # JetBrains IDEs (like PhpStorm, WebStorm)
+*.swp                 # Vim swap files
+
+# Logs
+*.log                 # Log files
+
+# Temporary files
+*.tmp
+*.bak
+
+# Compiled/Minified files (optional, if you're using bundling/minification)
+*.min.js
+*.min.css
+
+# .env files (if you store environment variables locally)
+.env

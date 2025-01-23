@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Epic7 Match Result Predictor</title>
+    <link rel="stylesheet" href="/css/index.css">
+</head>
+
+<body>
+    <div class="navbar">
+        <div class="logo">Epic7 RTA Bot (Beta)</div>
+        
+        <!-- <div class="btn-buymeacoffee" style="transform: scale(0.5); transform-origin: top left; display: inline-block;">
+            <script 
+              type="text/javascript" 
+              src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" 
+              data-name="bmc-button" 
+              data-slug="namhatankhu" 
+              data-color="#40DCA5" 
+              data-emoji=""  
+              data-font="Poppins" 
+              data-text="Buy me a coffee" 
+              data-outline-color="#000000" 
+              data-font-color="#ffffff" 
+              data-coffee-color="#FFDD00">
+            </script>
+          </div> -->
+    </div>
+
+    <div class="notification-container" id="notification-container">
+        <div id="notification" class="notification">
+            <h2 class="notification-title">Welcome!</h2>
+            <p class="notification-text">I hope that you will have some fun using this tool. It is an AI-based predictor that can predict the match result before it even starts!</p>
+            <p class="notification-text">If you encounter any bugs or have any suggestions regarding the new features, feel free to send me an email! <a href="mailto:nam.hatankhanh@gmail.com">nam.hatankhanh@gmail.com</a></p>
+        </div>
+        
+        <button class="btn-minimize" id="btn-minimize-notification" onclick="minimizeNotification()">-</button>
+
+        <div id="extended-notification" class="extended-notification">
+            <h2 class="extended-title">More features to be updated!</h2>
+            <ul>
+                <li><b>Personalization</b>: Prediction now considering your unique playstyle and preferences</li>
+                <li><b>Step-by-step ban pick guider</b>: Help you make wiser decisions during the ban pick stage</li>
+                <li><b>UI Update</b>: Of course, a more authentic UI ...</li>
+            </ul>
+            <p>The data used in this tool is publicly available at <a href="https://epic7.onstove.com/en/gg/" target="_blank">Epic7 Match History</a>!</p>
+        </div>
+    </div>
+
+    <div class="container" id="match-result-container">
+        <div class="column" id="user-match-section">
+            <div>
+                <h3>Your Picks</h3>
+                <p class="p winrate" id="user-winrate"></p>
+            </div>
+            
+            <div id="user-picks-container">
+                
+            </div>
+        </div>
+
+        <div class="column" id="opponent-match-section">
+            <div>
+                <h3>Opponent's Picks</h3>
+                <p class="p winrate" id="opponent-winrate"></p>
+            </div>
+            
+            <div id="opponent-picks-container">
+                
+            </div>
+        </div>
+
+        <div class="container" id="btns-section">
+            <div></div>
+            <button class="btn btn-refresh" onclick="refreshMatch()">Reset</button>
+            <button class="btn btn-submit" onclick="submitMatch()">Predict</button>
+        </div>
+    </div>
+
+    <div class="footer">
+
+    </div>
+
+    <script>
+        const heroes = heros_json_str
+    </script>
+
+    <script src="/js/index.js"></script>
+</body>
+</html>
