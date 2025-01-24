@@ -15,6 +15,7 @@ body {
     align-items: center;
 }
 
+
 .btn-buymeacoffee {
     background-color: #40DCA5; /* Button background color */
     color: #ffffff; /* Text color */
@@ -328,4 +329,34 @@ input[type="text"]:focus {
 .notification-container.minimized {
     transform: translateX(-50%) scale(0.9);
     opacity: 0.7;
+}
+
+.btn-disabled {
+    background-color: #999;
+    color: #333
+}
+
+.btn-disabled:hover {
+    background-color: #999;
+}
+
+/* Rolling animation */
+.btn .rolling {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    border: 3px solid #ffffff;
+    border-top-color: transparent;
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+    margin-left: 10px;
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
 }

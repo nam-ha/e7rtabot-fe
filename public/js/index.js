@@ -13,10 +13,7 @@ fetch(heroes_file)
 })
 .then(data => {
     // `data` is now a JavaScript object
-    console.log(data)
     heroes = data
-    console.log(heroes)
-    
 
     Object.entries(heroes).forEach(([id, hero]) => {
         heros_id_by_name[hero.name] = id;
@@ -207,12 +204,12 @@ function submitMatch() {
         opponentPicksName[0].length === 4;
 
     if (!isInputDistinct) {
-        alert("Duplication in inputs.");
+        alert("Duplication in inputs or empty inputs!");
         return;
     }
 
     if (!isInputCorrect) {
-        alert("Invalid names in inputs.");
+        alert("Invalid names in inputs! Check the name of each hero!");
         return;
     }
 
@@ -221,6 +218,11 @@ function submitMatch() {
         return;
     }
 
+    const btnSubmit = document.getElementById('btn-submit')
+    btnSubmit.classList.add("btn-disabled")
+    btnSubmit.innerHTML = '<span class="rolling"></span>'
+    btnSubmit.disabled = true;
+    
     // Send the API request
     fetch("https://e7rtabot-api-1030067260954.us-central1.run.app/api/v1/predict", {
         method: "POST",
@@ -233,7 +235,15 @@ function submitMatch() {
             my_player_id: "global"
         })
     })
-    .then(response => response.json())
+    .then(response => {
+        if (!response.ok) {
+            return response.json().then(errorData => {
+                // Throw an error with the message from the API
+                throw new Error(errorData.detail || "An error occurred! Please wait a little bit and retry!");
+            });
+        }
+        return response.json(); 
+    })
     .then(data => {
         const predictions = data.results;
         const scoresColor = data.scoresColor[0];
@@ -251,7 +261,6 @@ function submitMatch() {
             if (!pickContainer.classList.contains("banned")) {
                 pickContainer.style.backgroundColor = `${scoresColor[colorIndex]}`;
                 colorIndex += 1;
-                console.log(scoresColor[colorIndex])
             };
         })
 
@@ -262,7 +271,15 @@ function submitMatch() {
             };
         })
     })
-    .catch(error => console.error("Error:", error));
+    .catch(error => {
+        alert(`Error: ${error.message}`);
+        console.error("Error:", error);
+    })
+    .finally(() => {
+        btnSubmit.classList.remove("btn-disabled")
+        btnSubmit.disabled = false;
+        btnSubmit.innerHTML = 'Predict'
+    });
 }
 
 function resetPicksColor() {
