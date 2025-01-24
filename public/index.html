@@ -4,35 +4,22 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Epic7 Match Result Predictor</title>
-    <link rel="stylesheet" href="/css/index.css">
+    <link rel="stylesheet" href="css/index.css">
 </head>
 
 <body>
     <div class="navbar">
-        <div class="logo">Epic7 RTA Bot (Beta)</div>
-        
-        <!-- <div class="btn-buymeacoffee" style="transform: scale(0.5); transform-origin: top left; display: inline-block;">
-            <script 
-              type="text/javascript" 
-              src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" 
-              data-name="bmc-button" 
-              data-slug="namhatankhu" 
-              data-color="#40DCA5" 
-              data-emoji=""  
-              data-font="Poppins" 
-              data-text="Buy me a coffee" 
-              data-outline-color="#000000" 
-              data-font-color="#ffffff" 
-              data-coffee-color="#FFDD00">
-            </script>
-          </div> -->
+        <div class="logo">E7 RTA Bot</div>
+
+        <button class="btn-buymeacoffee" onclick="buyMeACoffee()"> ☕ Buy me a coffee </button>
+
     </div>
 
     <div class="notification-container" id="notification-container">
         <div id="notification" class="notification">
             <h2 class="notification-title">Welcome!</h2>
             <p class="notification-text">I hope that you will have some fun using this tool. It is an AI-based predictor that can predict the match result before it even starts!</p>
-            <p class="notification-text">If you encounter any bugs or have any suggestions regarding the new features, feel free to send me an email! <a href="mailto:nam.hatankhanh@gmail.com">nam.hatankhanh@gmail.com</a></p>
+            <p class="notification-text">If you encounter any bugs or have any suggestions regarding the new features, feel free to reach me on Discord: tokarinrika#3954</p>
         </div>
         
         <button class="btn-minimize" id="btn-minimize-notification" onclick="minimizeNotification()">-</button>
@@ -82,10 +69,6 @@
 
     </div>
 
-    <script>
-        const heroes = heros_json_str
-    </script>
-
-    <script src="/js/index.js"></script>
+    <script src="js/index.js"></script>
 </body>
 </html>

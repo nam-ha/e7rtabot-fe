@@ -1,7 +1,30 @@
+const heroes_file = "assets/heros.json";
 const heros_id_by_name = {};
+let heroes = {};
 
-Object.entries(heroes).forEach(([id, hero]) => {
-    heros_id_by_name[hero.name] = id;
+// Fetch the JSON file
+fetch(heroes_file)
+.then(response => {
+    // Check if the request was successful
+    if (!response.ok) {
+    throw new Error(`HTTP error! Status: ${response.status}`);
+    }
+    return response.json(); // Parse the JSON data
+})
+.then(data => {
+    // `data` is now a JavaScript object
+    console.log(data)
+    heroes = data
+    console.log(heroes)
+    
+
+    Object.entries(heroes).forEach(([id, hero]) => {
+        heros_id_by_name[hero.name] = id;
+    });
+
+})
+.catch(error => {
+    console.error("Error fetching the JSON file:", error);
 });
 
 let changeTimeout;
@@ -90,7 +113,7 @@ function createHeroPicks(containerId) {
                     const selectedHeroId = heros_id_by_name[searchInput.value];
         
                     if (selectedHeroId) {
-                        const avatar_url = "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/" + selectedHeroId + "_s.png"
+                        const avatar_url = `assets/avatars/${selectedHeroId}.png`
         
                         avatar.style.backgroundImage = `url(${avatar_url})`;
                         avatar.style.backgroundSize = "cover";
@@ -199,7 +222,7 @@ function submitMatch() {
     }
 
     // Send the API request
-    fetch("/api/v1/predict", {
+    fetch("https/api/v1/predict", {
         method: "POST",
         headers: {
             "Content-Type": "application/json"
@@ -292,6 +315,10 @@ function maximizeNotification() {
 
     document.querySelector("#notification-container .btn-minimize").onclick = minimizeNotification
     document.querySelector("#notification-container .btn-minimize").textContent = "-"
+}
+
+function buyMeACoffee() {
+    window.open("https://www.buymeacoffee.com/namhatankhu", "_blank");
 }
 
 // Main code
