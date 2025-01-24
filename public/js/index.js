@@ -222,7 +222,7 @@ function submitMatch() {
     }
 
     // Send the API request
-    fetch("https/api/v1/predict", {
+    fetch("https://e7rtabot-api-1030067260954.us-central1.run.app/api/v1/predict", {
         method: "POST",
         headers: {
             "Content-Type": "application/json"
