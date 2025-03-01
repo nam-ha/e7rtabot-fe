@@ -1,29 +1,41 @@
-# Node.js dependencies (if using Node.js or any package manager like npm/yarn)
-node_modules/
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
-# Build output directories (e.g., for bundlers like Webpack, Vite, etc.)
-dist/
-build/
+# dependencies
+/node_modules
+/.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
 
-# System files
-.DS_Store             # macOS Finder settings
-Thumbs.db             # Windows thumbnail cache
+# testing
+/coverage
 
-# IDE and editor files
-.vscode/              # Visual Studio Code settings
-.idea/                # JetBrains IDEs (like PhpStorm, WebStorm)
-*.swp                 # Vim swap files
+# next.js
+/.next/
+/out/
 
-# Logs
-*.log                 # Log files
+# production
+/build
 
-# Temporary files
-*.tmp
-*.bak
+# misc
+.DS_Store
+*.pem
 
-# Compiled/Minified files (optional, if you're using bundling/minification)
-*.min.js
-*.min.css
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
 
-# .env files (if you store environment variables locally)
-.env
+# env files (can opt-in for committing if needed)
+.env*
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
