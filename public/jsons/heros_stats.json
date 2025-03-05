@@ -1,0 +1,2186 @@
+{
+    "ae-karina": {
+        "total_appearance": 3640,
+        "average_damage_dealt": 1163.406207133056,
+        "average_damage_suffered": 4032.988497282678,
+        "average_amount_recovered": 437.70339943157705,
+        "average_combat_support": 3576.0045044829203
+    },
+    "solitaria_of_the_snow": {
+        "total_appearance": 8266,
+        "average_damage_dealt": 344.65044359281103,
+        "average_damage_suffered": 2203.9392430995517,
+        "average_amount_recovered": 79.79087639887679,
+        "average_combat_support": 3537.145100103622
+    },
+    "celine": {
+        "total_appearance": 20217,
+        "average_damage_dealt": 1368.6647579583723,
+        "average_damage_suffered": 1319.8268359337253,
+        "average_amount_recovered": 149.12554168778783,
+        "average_combat_support": 4448.469941211644
+    },
+    "briar_witch_iseria": {
+        "total_appearance": 10685,
+        "average_damage_dealt": 1194.0704021112333,
+        "average_damage_suffered": 1688.3341383252819,
+        "average_amount_recovered": 0,
+        "average_combat_support": 6075.6847268190895
+    },
+    "afternoon_soak_flan": {
+        "total_appearance": 41951,
+        "average_damage_dealt": 1436.42328062338,
+        "average_damage_suffered": 1492.6941878171976,
+        "average_amount_recovered": 70.55149240671138,
+        "average_combat_support": 3653.3051006355795
+    },
+    "albedo": {
+        "total_appearance": 11548,
+        "average_damage_dealt": 524.4257051111235,
+        "average_damage_suffered": 5159.015265352542,
+        "average_amount_recovered": 617.873851600575,
+        "average_combat_support": 2760.44010207075
+    },
+    "urban_shadow_choux": {
+        "total_appearance": 19346,
+        "average_damage_dealt": 1129.4520785295956,
+        "average_damage_suffered": 2795.128670547802,
+        "average_amount_recovered": 77.83566008130433,
+        "average_combat_support": 5000.564441706138
+    },
+    "archdemon's_shadow": {
+        "total_appearance": 16787,
+        "average_damage_dealt": 784.4826519422768,
+        "average_damage_suffered": 2888.8586257715087,
+        "average_amount_recovered": 0,
+        "average_combat_support": 2408.6279570149195
+    },
+    "new_moon_luna": {
+        "total_appearance": 18808,
+        "average_damage_dealt": 566.1011830079044,
+        "average_damage_suffered": 3104.6268879525087,
+        "average_amount_recovered": 0,
+        "average_combat_support": 4731.442139087375
+    },
+    "politis": {
+        "total_appearance": 6928,
+        "average_damage_dealt": 995.1628460131876,
+        "average_damage_suffered": 1929.4925994496186,
+        "average_amount_recovered": 0,
+        "average_combat_support": 2193.901996209632
+    },
+    "infinite_horizon_achates": {
+        "total_appearance": 7228,
+        "average_damage_dealt": 0,
+        "average_damage_suffered": 3200.045490103475,
+        "average_amount_recovered": 393.58310829576817,
+        "average_combat_support": 2487.4438285608944
+    },
+    "dragon_king_sharun": {
+        "total_appearance": 1838,
+        "average_damage_dealt": 259.1131269262719,
+        "average_damage_suffered": 3078.794682176643,
+        "average_amount_recovered": 72.42190424796709,
+        "average_combat_support": 2454.3035804648703
+    },
+    "jenua": {
+        "total_appearance": 18031,
+        "average_damage_dealt": 1705.4810646993951,
+        "average_damage_suffered": 1679.1071838066318,
+        "average_amount_recovered": 283.46262644006816,
+        "average_combat_support": 4982.704396869721
+    },
+    "abyssal_yufine": {
+        "total_appearance": 9632,
+        "average_damage_dealt": 1244.852918288649,
+        "average_damage_suffered": 4214.091318529749,
+        "average_amount_recovered": 235.6046647869963,
+        "average_combat_support": 3282.6497920143765
+    },
+    "schniel": {
+        "total_appearance": 6274,
+        "average_damage_dealt": 785.4728492666496,
+        "average_damage_suffered": 3633.4834645244337,
+        "average_amount_recovered": 220.85653176928602,
+        "average_combat_support": 2940.9745891480825
+    },
+    "young_senya": {
+        "total_appearance": 19459,
+        "average_damage_dealt": 875.1462584849675,
+        "average_damage_suffered": 2983.977219519544,
+        "average_amount_recovered": 148.2347088249139,
+        "average_combat_support": 3017.394983763475
+    },
+    "death_dealer_ray": {
+        "total_appearance": 24485,
+        "average_damage_dealt": 317.9291078916859,
+        "average_damage_suffered": 3292.1797661357537,
+        "average_amount_recovered": 218.72073991975086,
+        "average_combat_support": 4078.526868310376
+    },
+    "mort": {
+        "total_appearance": 15467,
+        "average_damage_dealt": 1358.7556601974238,
+        "average_damage_suffered": 3624.906857151453,
+        "average_amount_recovered": 762.7372341721726,
+        "average_combat_support": 4202.676026981405
+    },
+    "laia": {
+        "total_appearance": 8465,
+        "average_damage_dealt": 197.66526928006493,
+        "average_damage_suffered": 3930.9811468641024,
+        "average_amount_recovered": 65.94844830757022,
+        "average_combat_support": 1533.028232383499
+    },
+    "zio": {
+        "total_appearance": 21319,
+        "average_damage_dealt": 896.3978377224864,
+        "average_damage_suffered": 1368.0638834415931,
+        "average_amount_recovered": 0,
+        "average_combat_support": 6366.323939176975
+    },
+    "elvira": {
+        "total_appearance": 2076,
+        "average_damage_dealt": 491.8544023886248,
+        "average_damage_suffered": 1808.4296971522795,
+        "average_amount_recovered": 0,
+        "average_combat_support": 2188.6755044575407
+    },
+    "specter_tenebria": {
+        "total_appearance": 1277,
+        "average_damage_dealt": 1038.5341088763294,
+        "average_damage_suffered": 1569.1132226623959,
+        "average_amount_recovered": 0,
+        "average_combat_support": 2356.887453436999
+    },
+    "lionheart_cermia": {
+        "total_appearance": 2499,
+        "average_damage_dealt": 1647.5739588068304,
+        "average_damage_suffered": 4740.263790193133,
+        "average_amount_recovered": 140.46199807849712,
+        "average_combat_support": 4924.363549443654
+    },
+    "tori": {
+        "total_appearance": 13078,
+        "average_damage_dealt": 1074.3821317448012,
+        "average_damage_suffered": 934.0091569346986,
+        "average_amount_recovered": 346.9517920726205,
+        "average_combat_support": 5668.908074089685
+    },
+    "hellion_lua": {
+        "total_appearance": 7983,
+        "average_damage_dealt": 140.06618533617834,
+        "average_damage_suffered": 2942.703619313662,
+        "average_amount_recovered": 61.90605075708745,
+        "average_combat_support": 7484.805823721166
+    },
+    "alencia": {
+        "total_appearance": 3359,
+        "average_damage_dealt": 1115.5962156067146,
+        "average_damage_suffered": 4303.460526438517,
+        "average_amount_recovered": 189.70590936412412,
+        "average_combat_support": 4666.427041593155
+    },
+    "ruele_of_light": {
+        "total_appearance": 2818,
+        "average_damage_dealt": 0,
+        "average_damage_suffered": 4433.89120166574,
+        "average_amount_recovered": 705.6045611889393,
+        "average_combat_support": 1655.5302777818333
+    },
+    "sea_phantom_politis": {
+        "total_appearance": 27051,
+        "average_damage_dealt": 63.481085184908096,
+        "average_damage_suffered": 1767.3444102369838,
+        "average_amount_recovered": 0,
+        "average_combat_support": 6260.129427714647
+    },
+    "lone_wolf_peira": {
+        "total_appearance": 32829,
+        "average_damage_dealt": 445.09247767265975,
+        "average_damage_suffered": 1949.1442880709676,
+        "average_amount_recovered": 0,
+        "average_combat_support": 4413.394107444764
+    },
+    "last_rider_krau": {
+        "total_appearance": 7098,
+        "average_damage_dealt": 1045.021842276627,
+        "average_damage_suffered": 4543.523357922182,
+        "average_amount_recovered": 954.3354838456536,
+        "average_combat_support": 5655.372512503217
+    },
+    "adventurer_ras": {
+        "total_appearance": 5000,
+        "average_damage_dealt": 207.87014960017206,
+        "average_damage_suffered": 4324.206876237999,
+        "average_amount_recovered": 553.4944431929484,
+        "average_combat_support": 3001.4562942362677
+    },
+    "blood_moon_haste": {
+        "total_appearance": 12303,
+        "average_damage_dealt": 400.0796634277865,
+        "average_damage_suffered": 4911.934918419144,
+        "average_amount_recovered": 810.2964031075601,
+        "average_combat_support": 2575.8703071224277
+    },
+    "requiem_roana": {
+        "total_appearance": 6636,
+        "average_damage_dealt": 1285.399710146637,
+        "average_damage_suffered": 2020.9106075483194,
+        "average_amount_recovered": 0,
+        "average_combat_support": 2388.432986844979
+    },
+    "veronica": {
+        "total_appearance": 18214,
+        "average_damage_dealt": 349.7467733747365,
+        "average_damage_suffered": 1247.2844736022037,
+        "average_amount_recovered": 0,
+        "average_combat_support": 2601.8123380560032
+    },
+    "blood_blade_karin": {
+        "total_appearance": 28870,
+        "average_damage_dealt": 2015.1301034770065,
+        "average_damage_suffered": 2077.1586427813695,
+        "average_amount_recovered": 413.15834604472246,
+        "average_combat_support": 4962.882866037239
+    },
+    "frida": {
+        "total_appearance": 5022,
+        "average_damage_dealt": 0,
+        "average_damage_suffered": 1845.8737647961213,
+        "average_amount_recovered": 144.17931577324177,
+        "average_combat_support": 5363.026611309372
+    },
+    "lethe": {
+        "total_appearance": 523,
+        "average_damage_dealt": 539.6244930913524,
+        "average_damage_suffered": 3551.3483429712096,
+        "average_amount_recovered": 221.5011500920246,
+        "average_combat_support": 4572.479428498218
+    },
+    "krau": {
+        "total_appearance": 7801,
+        "average_damage_dealt": 333.58528531590053,
+        "average_damage_suffered": 5822.413144166792,
+        "average_amount_recovered": 526.7043665982887,
+        "average_combat_support": 3549.005497464418
+    },
+    "rimuru": {
+        "total_appearance": 1313,
+        "average_damage_dealt": 844.593052755474,
+        "average_damage_suffered": 2763.1704761479186,
+        "average_amount_recovered": 114.82696277872095,
+        "average_combat_support": 5112.5589927180035
+    },
+    "lone_crescent_bellona": {
+        "total_appearance": 1289,
+        "average_damage_dealt": 1651.3318574064424,
+        "average_damage_suffered": 4138.92694964923,
+        "average_amount_recovered": 270.1189946127456,
+        "average_combat_support": 4124.060483438727
+    },
+    "diene": {
+        "total_appearance": 8877,
+        "average_damage_dealt": 0,
+        "average_damage_suffered": 2170.1846564672323,
+        "average_amount_recovered": 651.0779372699602,
+        "average_combat_support": 4238.915252706223
+    },
+    "lilias": {
+        "total_appearance": 2423,
+        "average_damage_dealt": 864.7543447696346,
+        "average_damage_suffered": 3045.2044262050927,
+        "average_amount_recovered": 406.28760225893495,
+        "average_combat_support": 2796.0748766463594
+    },
+    "iseria": {
+        "total_appearance": 24,
+        "average_damage_dealt": 183.95832398042253,
+        "average_damage_suffered": 2385.7627516787875,
+        "average_amount_recovered": 0,
+        "average_combat_support": 2410.3059001064235
+    },
+    "ambitious_tywin": {
+        "total_appearance": 7928,
+        "average_damage_dealt": 317.6201256907096,
+        "average_damage_suffered": 4947.570451721677,
+        "average_amount_recovered": 289.0870478262595,
+        "average_combat_support": 3330.644209563566
+    },
+    "belian": {
+        "total_appearance": 8447,
+        "average_damage_dealt": 1209.1309355242993,
+        "average_damage_suffered": 4712.700706138439,
+        "average_amount_recovered": 146.2583284686724,
+        "average_combat_support": 2796.7484838155337
+    },
+    "ocean_breeze_luluca": {
+        "total_appearance": 928,
+        "average_damage_dealt": 65.68175972699231,
+        "average_damage_suffered": 3238.5463656189477,
+        "average_amount_recovered": 117.41564486366786,
+        "average_combat_support": 4178.211240141156
+    },
+    "sinful_angelica": {
+        "total_appearance": 1585,
+        "average_damage_dealt": 0,
+        "average_damage_suffered": 2291.079231277685,
+        "average_amount_recovered": 452.8470854789441,
+        "average_combat_support": 4399.107267179521
+    },
+    "remnant_violet": {
+        "total_appearance": 8512,
+        "average_damage_dealt": 1396.9403236269802,
+        "average_damage_suffered": 1608.0067946834642,
+        "average_amount_recovered": 137.38922531720092,
+        "average_combat_support": 3348.486673594138
+    },
+    "dragon_bride_senya": {
+        "total_appearance": 12534,
+        "average_damage_dealt": 779.2309790717146,
+        "average_damage_suffered": 5494.448050300135,
+        "average_amount_recovered": 416.4908619029517,
+        "average_combat_support": 2570.637065171883
+    },
+    "eligos": {
+        "total_appearance": 10688,
+        "average_damage_dealt": 1473.4608995514943,
+        "average_damage_suffered": 1216.062091899446,
+        "average_amount_recovered": 0,
+        "average_combat_support": 4848.802617588362
+    },
+    "eternal_wanderer_ludwig": {
+        "total_appearance": 4292,
+        "average_damage_dealt": 3939.0077803591935,
+        "average_damage_suffered": 1337.0727001917212,
+        "average_amount_recovered": 0,
+        "average_combat_support": 5555.430616149965
+    },
+    "lua": {
+        "total_appearance": 1488,
+        "average_damage_dealt": 504.07656158306673,
+        "average_damage_suffered": 1570.8155544677638,
+        "average_amount_recovered": 0,
+        "average_combat_support": 5380.446382939074
+    },
+    "assassin_cidd": {
+        "total_appearance": 201,
+        "average_damage_dealt": 1041.568472093782,
+        "average_damage_suffered": 1391.7093783214516,
+        "average_amount_recovered": 0,
+        "average_combat_support": 5529.769392237347
+    },
+    "designer_lilibet": {
+        "total_appearance": 8243,
+        "average_damage_dealt": 1422.4995767621565,
+        "average_damage_suffered": 4011.461409932118,
+        "average_amount_recovered": 64.91677453692552,
+        "average_combat_support": 3413.501706840409
+    },
+    "edward_elric": {
+        "total_appearance": 2360,
+        "average_damage_dealt": 1346.7726770860752,
+        "average_damage_suffered": 3647.8807268761902,
+        "average_amount_recovered": 218.24593693985955,
+        "average_combat_support": 3606.8216844571275
+    },
+    "ravi": {
+        "total_appearance": 2229,
+        "average_damage_dealt": 1118.7051840701909,
+        "average_damage_suffered": 3752.398275453884,
+        "average_amount_recovered": 363.2234759602487,
+        "average_combat_support": 2666.274559580865
+    },
+    "harsetti": {
+        "total_appearance": 14291,
+        "average_damage_dealt": 1137.0495765932192,
+        "average_damage_suffered": 3427.593244523993,
+        "average_amount_recovered": 0,
+        "average_combat_support": 7950.463523508203
+    },
+    "summertime_iseria": {
+        "total_appearance": 2240,
+        "average_damage_dealt": 1298.965079898926,
+        "average_damage_suffered": 1947.8302823360993,
+        "average_amount_recovered": 0,
+        "average_combat_support": 3266.1357818253837
+    },
+    "arbiter_vildred": {
+        "total_appearance": 4632,
+        "average_damage_dealt": 2405.492889122153,
+        "average_damage_suffered": 2370.8508941821055,
+        "average_amount_recovered": 0,
+        "average_combat_support": 5868.278140231547
+    },
+    "blooming_lidica": {
+        "total_appearance": 4293,
+        "average_damage_dealt": 1045.8539225457575,
+        "average_damage_suffered": 2213.1133259202325,
+        "average_amount_recovered": 0,
+        "average_combat_support": 4162.047572319363
+    },
+    "sez": {
+        "total_appearance": 1685,
+        "average_damage_dealt": 3158.0543431149226,
+        "average_damage_suffered": 1358.6176174140319,
+        "average_amount_recovered": 0,
+        "average_combat_support": 4561.140798654995
+    },
+    "silver_blade_aramintha": {
+        "total_appearance": 3381,
+        "average_damage_dealt": 1611.5086863005192,
+        "average_damage_suffered": 1900.703234290978,
+        "average_amount_recovered": 0,
+        "average_combat_support": 4768.982154779902
+    },
+    "inheritor_amiki": {
+        "total_appearance": 14569,
+        "average_damage_dealt": 1344.2551147241456,
+        "average_damage_suffered": 1899.6922525188,
+        "average_amount_recovered": 0,
+        "average_combat_support": 3356.2855879810413
+    },
+    "conqueror_lilias": {
+        "total_appearance": 2243,
+        "average_damage_dealt": 75.69057028197597,
+        "average_damage_suffered": 2540.4830751970926,
+        "average_amount_recovered": 245.93126304857051,
+        "average_combat_support": 5038.8499440049845
+    },
+    "empyrean_ilynav": {
+        "total_appearance": 18155,
+        "average_damage_dealt": 511.049472140844,
+        "average_damage_suffered": 4250.819052593639,
+        "average_amount_recovered": 346.4547158556623,
+        "average_combat_support": 3476.251326103618
+    },
+    "bystander_hwayoung": {
+        "total_appearance": 23348,
+        "average_damage_dealt": 1260.0965567956273,
+        "average_damage_suffered": 5986.609865225203,
+        "average_amount_recovered": 229.60986487566734,
+        "average_combat_support": 2630.2926166494053
+    },
+    "closer_charles": {
+        "total_appearance": 1806,
+        "average_damage_dealt": 1566.0750777794212,
+        "average_damage_suffered": 1432.0130281605009,
+        "average_amount_recovered": 88.12662589338014,
+        "average_combat_support": 5766.706660038438
+    },
+    "nahkwol": {
+        "total_appearance": 7392,
+        "average_damage_dealt": 330.0525479616585,
+        "average_damage_suffered": 1710.0009837746804,
+        "average_amount_recovered": 0,
+        "average_combat_support": 3562.052472423896
+    },
+    "jack-o'": {
+        "total_appearance": 2449,
+        "average_damage_dealt": 1920.5868865026605,
+        "average_damage_suffered": 1313.689304434096,
+        "average_amount_recovered": 0,
+        "average_combat_support": 4740.095803907824
+    },
+    "angel_of_light_angelica": {
+        "total_appearance": 1816,
+        "average_damage_dealt": 0,
+        "average_damage_suffered": 2591.5498515358554,
+        "average_amount_recovered": 0,
+        "average_combat_support": 3365.9366096524986
+    },
+    "midnight_gala_lilias": {
+        "total_appearance": 4263,
+        "average_damage_dealt": 1839.6432664588494,
+        "average_damage_suffered": 1144.3394223171574,
+        "average_amount_recovered": 115.55352797194095,
+        "average_combat_support": 6542.730320747901
+    },
+    "straze": {
+        "total_appearance": 979,
+        "average_damage_dealt": 2910.738444499143,
+        "average_damage_suffered": 1235.947525105287,
+        "average_amount_recovered": 0,
+        "average_combat_support": 5039.722772142558
+    },
+    "navy_captain_landy": {
+        "total_appearance": 4790,
+        "average_damage_dealt": 1278.5851060485477,
+        "average_damage_suffered": 3135.198479464584,
+        "average_amount_recovered": 211.82241277550796,
+        "average_combat_support": 4305.694523823857
+    },
+    "festive_eda": {
+        "total_appearance": 1417,
+        "average_damage_dealt": 440.82340140402425,
+        "average_damage_suffered": 2242.3060333808116,
+        "average_amount_recovered": 0,
+        "average_combat_support": 5867.490218365462
+    },
+    "benimaru": {
+        "total_appearance": 1634,
+        "average_damage_dealt": 1941.8657508314413,
+        "average_damage_suffered": 2211.9317118002077,
+        "average_amount_recovered": 0,
+        "average_combat_support": 3981.2325921439574
+    },
+    "ran": {
+        "total_appearance": 4804,
+        "average_damage_dealt": 1557.0962768108127,
+        "average_damage_suffered": 1311.4748645425677,
+        "average_amount_recovered": 0,
+        "average_combat_support": 8094.126405419428
+    },
+    "cidd": {
+        "total_appearance": 2977,
+        "average_damage_dealt": 1352.9907418182374,
+        "average_damage_suffered": 1292.3021912071194,
+        "average_amount_recovered": 0,
+        "average_combat_support": 3669.690946337819
+    },
+    "abigail": {
+        "total_appearance": 2813,
+        "average_damage_dealt": 459.2584148465475,
+        "average_damage_suffered": 3288.066821529509,
+        "average_amount_recovered": 0,
+        "average_combat_support": 2036.7301068182624
+    },
+    "roana": {
+        "total_appearance": 2042,
+        "average_damage_dealt": 0,
+        "average_damage_suffered": 3509.3460806270355,
+        "average_amount_recovered": 2014.113650655639,
+        "average_combat_support": 2739.5853340121803
+    },
+    "savior_adin": {
+        "total_appearance": 2258,
+        "average_damage_dealt": 1190.5636588268924,
+        "average_damage_suffered": 1540.4640064319135,
+        "average_amount_recovered": 59.953869760070035,
+        "average_combat_support": 2854.2212959772532
+    },
+    "elena": {
+        "total_appearance": 3751,
+        "average_damage_dealt": 99.87553415931058,
+        "average_damage_suffered": 2403.947492057232,
+        "average_amount_recovered": 598.0140160600353,
+        "average_combat_support": 2316.6039282555357
+    },
+    "seaside_bellona": {
+        "total_appearance": 227,
+        "average_damage_dealt": 1633.7154192854011,
+        "average_damage_suffered": 2490.5304029984723,
+        "average_amount_recovered": 172.50405828902632,
+        "average_combat_support": 4258.101374546771
+    },
+    "fenne": {
+        "total_appearance": 2647,
+        "average_damage_dealt": 819.2616821943371,
+        "average_damage_suffered": 3276.4774222895558,
+        "average_amount_recovered": 564.2766710361487,
+        "average_combat_support": 3265.836871741858
+    },
+    "sylvan_sage_vivian": {
+        "total_appearance": 3032,
+        "average_damage_dealt": 1301.17861767492,
+        "average_damage_suffered": 1668.7762071742059,
+        "average_amount_recovered": 630.999845876954,
+        "average_combat_support": 3683.733166916562
+    },
+    "shalltear": {
+        "total_appearance": 2473,
+        "average_damage_dealt": 921.5049174033618,
+        "average_damage_suffered": 1403.1983649153276,
+        "average_amount_recovered": 77.20774859343591,
+        "average_combat_support": 4117.373902697804
+    },
+    "silvertide_christy": {
+        "total_appearance": 1271,
+        "average_damage_dealt": 0,
+        "average_damage_suffered": 3813.354796608536,
+        "average_amount_recovered": 484.9904572125028,
+        "average_combat_support": 2948.848824271247
+    },
+    "wanderer_silk": {
+        "total_appearance": 2798,
+        "average_damage_dealt": 196.89692088399863,
+        "average_damage_suffered": 1665.62964868782,
+        "average_amount_recovered": 96.79728548445848,
+        "average_combat_support": 1852.2474015186942
+    },
+    "spirit_eye_celine": {
+        "total_appearance": 1526,
+        "average_damage_dealt": 567.4107861130719,
+        "average_damage_suffered": 1507.3734499816337,
+        "average_amount_recovered": 169.66178491631763,
+        "average_combat_support": 3843.781926976933
+    },
+    "martial_artist_ken": {
+        "total_appearance": 1933,
+        "average_damage_dealt": 1545.7299153379972,
+        "average_damage_suffered": 4490.615239208573,
+        "average_amount_recovered": 273.6873077811045,
+        "average_combat_support": 5240.209433119324
+    },
+    "choux": {
+        "total_appearance": 528,
+        "average_damage_dealt": 1033.0123208512123,
+        "average_damage_suffered": 3340.697326928422,
+        "average_amount_recovered": 110.94695736683217,
+        "average_combat_support": 3576.035629328212
+    },
+    "desert_jewel_basar": {
+        "total_appearance": 743,
+        "average_damage_dealt": 215.30530745903172,
+        "average_damage_suffered": 2369.4387530292834,
+        "average_amount_recovered": 177.76621210946112,
+        "average_combat_support": 2882.917809198752
+    },
+    "landy": {
+        "total_appearance": 392,
+        "average_damage_dealt": 1290.5373542860964,
+        "average_damage_suffered": 1651.5801452828262,
+        "average_amount_recovered": 59.21890653935067,
+        "average_combat_support": 3792.329369134265
+    },
+    "aria": {
+        "total_appearance": 1960,
+        "average_damage_dealt": 1115.3697145025862,
+        "average_damage_suffered": 3675.053258573372,
+        "average_amount_recovered": 365.84980815724515,
+        "average_combat_support": 4594.494814637957
+    },
+    "shadow_knight_pyllis": {
+        "total_appearance": 619,
+        "average_damage_dealt": 339.8734966093061,
+        "average_damage_suffered": 4612.503304504527,
+        "average_amount_recovered": 333.7846059341104,
+        "average_combat_support": 2777.3804282370197
+    },
+    "twisted_eidolon_kayron": {
+        "total_appearance": 1572,
+        "average_damage_dealt": 1660.3190167488563,
+        "average_damage_suffered": 3024.9732449001717,
+        "average_amount_recovered": 354.51339089523856,
+        "average_combat_support": 3551.9503598497595
+    },
+    "destina": {
+        "total_appearance": 707,
+        "average_damage_dealt": 0,
+        "average_damage_suffered": 3664.421768863748,
+        "average_amount_recovered": 883.4613932413332,
+        "average_combat_support": 1108.0016266871153
+    },
+    "top_model_luluca": {
+        "total_appearance": 2893,
+        "average_damage_dealt": 1064.6265972090862,
+        "average_damage_suffered": 1056.8111877614306,
+        "average_amount_recovered": 150.82083090509724,
+        "average_combat_support": 5423.4598173558625
+    },
+    "aramintha": {
+        "total_appearance": 259,
+        "average_damage_dealt": 952.2199484741501,
+        "average_damage_suffered": 1913.5534499488572,
+        "average_amount_recovered": 103.139797505066,
+        "average_combat_support": 5801.661533679385
+    },
+    "new_kid_adin": {
+        "total_appearance": 667,
+        "average_damage_dealt": 1230.9353762414812,
+        "average_damage_suffered": 1899.7283311452193,
+        "average_amount_recovered": 138.19122364299284,
+        "average_combat_support": 3437.2020230067933
+    },
+    "mediator_kawerik": {
+        "total_appearance": 3018,
+        "average_damage_dealt": 207.70919623999742,
+        "average_damage_suffered": 3281.092283940861,
+        "average_amount_recovered": 502.73007127555087,
+        "average_combat_support": 3890.8409911901335
+    },
+    "luna": {
+        "total_appearance": 246,
+        "average_damage_dealt": 2061.5125008932146,
+        "average_damage_suffered": 2142.095001195063,
+        "average_amount_recovered": 0,
+        "average_combat_support": 3639.1778096397793
+    },
+    "pirate_captain_flan": {
+        "total_appearance": 3960,
+        "average_damage_dealt": 844.9722495745075,
+        "average_damage_suffered": 2029.093474578319,
+        "average_amount_recovered": 0,
+        "average_combat_support": 3184.602776413334
+    },
+    "fallen_cecilia": {
+        "total_appearance": 1011,
+        "average_damage_dealt": 370.1801819743605,
+        "average_damage_suffered": 4022.5194613802482,
+        "average_amount_recovered": 1013.5890942746347,
+        "average_combat_support": 4094.014347635237
+    },
+    "judge_kise": {
+        "total_appearance": 799,
+        "average_damage_dealt": 2983.845885097879,
+        "average_damage_suffered": 1098.0301363746855,
+        "average_amount_recovered": 0,
+        "average_combat_support": 5313.272589164107
+    },
+    "peacemaker_furious": {
+        "total_appearance": 104,
+        "average_damage_dealt": 675.4129451845448,
+        "average_damage_suffered": 2893.0472214197944,
+        "average_amount_recovered": 0,
+        "average_combat_support": 3753.7217727335374
+    },
+    "kayron": {
+        "total_appearance": 1312,
+        "average_damage_dealt": 1539.0676379473132,
+        "average_damage_suffered": 1451.8647560492564,
+        "average_amount_recovered": 0,
+        "average_combat_support": 5177.037741651934
+    },
+    "mercedes": {
+        "total_appearance": 213,
+        "average_damage_dealt": 2126.065814504859,
+        "average_damage_suffered": 2576.547160929474,
+        "average_amount_recovered": 0,
+        "average_combat_support": 3735.9106209742854
+    },
+    "eda": {
+        "total_appearance": 720,
+        "average_damage_dealt": 1843.5195017780113,
+        "average_damage_suffered": 1271.571597911799,
+        "average_amount_recovered": 0,
+        "average_combat_support": 2679.33248302177
+    },
+    "assassin_cartuja": {
+        "total_appearance": 642,
+        "average_damage_dealt": 170.944129912829,
+        "average_damage_suffered": 2086.609659381967,
+        "average_amount_recovered": 148.49831399488448,
+        "average_combat_support": 1353.0975367146514
+    },
+    "yulha": {
+        "total_appearance": 1259,
+        "average_damage_dealt": 644.0421424993876,
+        "average_damage_suffered": 5833.555222163859,
+        "average_amount_recovered": 601.352987562483,
+        "average_combat_support": 2549.626926666224
+    },
+    "holiday_yufine": {
+        "total_appearance": 799,
+        "average_damage_dealt": 758.9668205208958,
+        "average_damage_suffered": 2154.719523077947,
+        "average_amount_recovered": 0,
+        "average_combat_support": 3967.132177892173
+    },
+    "taeyou": {
+        "total_appearance": 901,
+        "average_damage_dealt": 1099.2678279244967,
+        "average_damage_suffered": 1605.3401571471777,
+        "average_amount_recovered": 0,
+        "average_combat_support": 3214.457901308378
+    },
+    "yufine": {
+        "total_appearance": 1452,
+        "average_damage_dealt": 2207.261096585761,
+        "average_damage_suffered": 1452.460614501187,
+        "average_amount_recovered": 0,
+        "average_combat_support": 4387.012812286795
+    },
+    "purrgis": {
+        "total_appearance": 21,
+        "average_damage_dealt": 400.8670610551913,
+        "average_damage_suffered": 2988.792440288081,
+        "average_amount_recovered": 75.83344671201813,
+        "average_combat_support": 962.9258198364815
+    },
+    "byblis": {
+        "total_appearance": 634,
+        "average_damage_dealt": 557.4562221936516,
+        "average_damage_suffered": 2071.518226677243,
+        "average_amount_recovered": 829.7585529859044,
+        "average_combat_support": 6152.656981664665
+    },
+    "summer's_disciple_alexa": {
+        "total_appearance": 3,
+        "average_damage_dealt": 393.1217391304347,
+        "average_damage_suffered": 1623.6931159420292,
+        "average_amount_recovered": 0,
+        "average_combat_support": 3013.327536231884
+    },
+    "amid": {
+        "total_appearance": 1630,
+        "average_damage_dealt": 0,
+        "average_damage_suffered": 1565.044201122578,
+        "average_amount_recovered": 0,
+        "average_combat_support": 4167.720082542963
+    },
+    "faithless_lidica": {
+        "total_appearance": 1374,
+        "average_damage_dealt": 670.0379931693601,
+        "average_damage_suffered": 998.1120849969462,
+        "average_amount_recovered": 0,
+        "average_combat_support": 3866.5727897351053
+    },
+    "ae-winter": {
+        "total_appearance": 310,
+        "average_damage_dealt": 518.8670257449024,
+        "average_damage_suffered": 1365.6654148901837,
+        "average_amount_recovered": 0,
+        "average_combat_support": 3504.3934936940623
+    },
+    "peira": {
+        "total_appearance": 2719,
+        "average_damage_dealt": 365.37171577317366,
+        "average_damage_suffered": 1635.004383997071,
+        "average_amount_recovered": 424.5712649988338,
+        "average_combat_support": 6115.988763720965
+    },
+    "apocalypse_ravi": {
+        "total_appearance": 905,
+        "average_damage_dealt": 600.0656732066111,
+        "average_damage_suffered": 4342.869593703117,
+        "average_amount_recovered": 595.0011735982216,
+        "average_combat_support": 1954.2782837912414
+    },
+    "beehoo": {
+        "total_appearance": 343,
+        "average_damage_dealt": 496.21591168609564,
+        "average_damage_suffered": 2694.112909285038,
+        "average_amount_recovered": 0,
+        "average_combat_support": 3032.4284239184876
+    },
+    "dark_corvus": {
+        "total_appearance": 154,
+        "average_damage_dealt": 393.70286802925875,
+        "average_damage_suffered": 5061.507981375669,
+        "average_amount_recovered": 399.9311922034237,
+        "average_combat_support": 2159.992198259381
+    },
+    "immortal_wukong": {
+        "total_appearance": 1296,
+        "average_damage_dealt": 1150.4011212505231,
+        "average_damage_suffered": 2326.2258139179935,
+        "average_amount_recovered": 246.82265787362633,
+        "average_combat_support": 3388.3265536896365
+    },
+    "zahhak": {
+        "total_appearance": 584,
+        "average_damage_dealt": 1001.2561372067348,
+        "average_damage_suffered": 1201.3870385199818,
+        "average_amount_recovered": 0,
+        "average_combat_support": 3398.5240373587135
+    },
+    "unbound_knight_arowell": {
+        "total_appearance": 1320,
+        "average_damage_dealt": 153.29192195685428,
+        "average_damage_suffered": 4263.679727893527,
+        "average_amount_recovered": 1049.2125311760713,
+        "average_combat_support": 4315.49033617892
+    },
+    "westwind_executioner_schuri": {
+        "total_appearance": 1436,
+        "average_damage_dealt": 1421.460111977522,
+        "average_damage_suffered": 1633.0162707348215,
+        "average_amount_recovered": 0,
+        "average_combat_support": 3055.272057549985
+    },
+    "specimen_sez": {
+        "total_appearance": 430,
+        "average_damage_dealt": 1041.9424387321517,
+        "average_damage_suffered": 1985.2873582786028,
+        "average_amount_recovered": 0,
+        "average_combat_support": 2799.467640011353
+    },
+    "leah": {
+        "total_appearance": 40,
+        "average_damage_dealt": 403.23656034035196,
+        "average_damage_suffered": 1314.413889845427,
+        "average_amount_recovered": 0,
+        "average_combat_support": 3852.2698763060775
+    },
+    "ken": {
+        "total_appearance": 313,
+        "average_damage_dealt": 659.0563366121901,
+        "average_damage_suffered": 3241.644207554996,
+        "average_amount_recovered": 63.02356508636017,
+        "average_combat_support": 2450.457179639675
+    },
+    "emilia": {
+        "total_appearance": 204,
+        "average_damage_dealt": 0,
+        "average_damage_suffered": 2076.4026406675357,
+        "average_amount_recovered": 764.8868989630286,
+        "average_combat_support": 2483.8554896982664
+    },
+    "wandering_prince_cidd": {
+        "total_appearance": 274,
+        "average_damage_dealt": 605.4527379994702,
+        "average_damage_suffered": 1895.3757323484763,
+        "average_amount_recovered": 0,
+        "average_combat_support": 2384.7016115658075
+    },
+    "last_piece_karin": {
+        "total_appearance": 1700,
+        "average_damage_dealt": 1056.1642050259559,
+        "average_damage_suffered": 1161.0060792447755,
+        "average_amount_recovered": 130.57331785001273,
+        "average_combat_support": 4884.980312054808
+    },
+    "ludwig": {
+        "total_appearance": 233,
+        "average_damage_dealt": 2367.4420052899777,
+        "average_damage_suffered": 820.9806681483421,
+        "average_amount_recovered": 0,
+        "average_combat_support": 3936.7152269621097
+    },
+    "moon_bunny_dominiel": {
+        "total_appearance": 4474,
+        "average_damage_dealt": 0,
+        "average_damage_suffered": 2705.0849475030773,
+        "average_amount_recovered": 402.684569615168,
+        "average_combat_support": 3707.308806347695
+    },
+    "tenebria": {
+        "total_appearance": 224,
+        "average_damage_dealt": 688.6488397822108,
+        "average_damage_suffered": 2187.3494295568516,
+        "average_amount_recovered": 0,
+        "average_combat_support": 3275.4961739443884
+    },
+    "cecilia": {
+        "total_appearance": 147,
+        "average_damage_dealt": 321.65998333303185,
+        "average_damage_suffered": 3255.9031425346025,
+        "average_amount_recovered": 415.8083895732728,
+        "average_combat_support": 4060.3923065723393
+    },
+    "melissa": {
+        "total_appearance": 1755,
+        "average_damage_dealt": 1741.8859204199375,
+        "average_damage_suffered": 1324.9915169144667,
+        "average_amount_recovered": 0,
+        "average_combat_support": 4130.737071788141
+    },
+    "watcher_schuri": {
+        "total_appearance": 711,
+        "average_damage_dealt": 757.2815676533183,
+        "average_damage_suffered": 1502.4408076863872,
+        "average_amount_recovered": 0,
+        "average_combat_support": 1593.218413014015
+    },
+    "lilibet": {
+        "total_appearance": 26,
+        "average_damage_dealt": 1046.178507464157,
+        "average_damage_suffered": 1679.1051208826664,
+        "average_amount_recovered": 0,
+        "average_combat_support": 1849.1367131741133
+    },
+    "maid_chloe": {
+        "total_appearance": 578,
+        "average_damage_dealt": 0,
+        "average_damage_suffered": 3700.2302317391795,
+        "average_amount_recovered": 451.87106855611074,
+        "average_combat_support": 2452.3237178969744
+    },
+    "birgitta": {
+        "total_appearance": 81,
+        "average_damage_dealt": 0,
+        "average_damage_suffered": 2151.6717632027253,
+        "average_amount_recovered": 0,
+        "average_combat_support": 2615.899283795386
+    },
+    "maya": {
+        "total_appearance": 11,
+        "average_damage_dealt": 86.2462481962482,
+        "average_damage_suffered": 3614.7985612426783,
+        "average_amount_recovered": 267.15909090909093,
+        "average_combat_support": 4107.242171717172
+    },
+    "bad_cat_armin": {
+        "total_appearance": 319,
+        "average_damage_dealt": 285.9776351817999,
+        "average_damage_suffered": 3133.248228650953,
+        "average_amount_recovered": 466.41680287521007,
+        "average_combat_support": 4682.979736099118
+    },
+    "inferno_khawazu": {
+        "total_appearance": 218,
+        "average_damage_dealt": 700.114095605879,
+        "average_damage_suffered": 3482.137839903106,
+        "average_amount_recovered": 179.99906766653515,
+        "average_combat_support": 2932.5712894221183
+    },
+    "rin": {
+        "total_appearance": 70,
+        "average_damage_dealt": 55.32594528482339,
+        "average_damage_suffered": 3384.0790329180145,
+        "average_amount_recovered": 495.9092000581868,
+        "average_combat_support": 2383.9789886880208
+    },
+    "ervalen": {
+        "total_appearance": 59,
+        "average_damage_dealt": 1552.3994327327111,
+        "average_damage_suffered": 1174.4939474295472,
+        "average_amount_recovered": 254.10803839020497,
+        "average_combat_support": 3677.7002698498363
+    },
+    "crescent_moon_rin": {
+        "total_appearance": 196,
+        "average_damage_dealt": 325.2046340735987,
+        "average_damage_suffered": 1139.9517715509626,
+        "average_amount_recovered": 55.20693601913594,
+        "average_combat_support": 4566.082111547508
+    },
+    "kawerik": {
+        "total_appearance": 211,
+        "average_damage_dealt": 1477.7999967651829,
+        "average_damage_suffered": 1674.2137239306908,
+        "average_amount_recovered": 0,
+        "average_combat_support": 4393.439193514251
+    },
+    "kane": {
+        "total_appearance": 156,
+        "average_damage_dealt": 1432.4980347427338,
+        "average_damage_suffered": 2010.427272593506,
+        "average_amount_recovered": 206.86351729921614,
+        "average_combat_support": 4165.748507166542
+    },
+    "mui": {
+        "total_appearance": 35,
+        "average_damage_dealt": 937.4755371736976,
+        "average_damage_suffered": 1786.5182518299687,
+        "average_amount_recovered": 0,
+        "average_combat_support": 4558.152476868053
+    },
+    "summer_break_charlotte": {
+        "total_appearance": 424,
+        "average_damage_dealt": 2424.867184113164,
+        "average_damage_suffered": 2254.183820868004,
+        "average_amount_recovered": 0,
+        "average_combat_support": 5022.219625360863
+    },
+    "basar": {
+        "total_appearance": 44,
+        "average_damage_dealt": 226.9342545312056,
+        "average_damage_suffered": 2994.698701195282,
+        "average_amount_recovered": 0,
+        "average_combat_support": 2551.5037497398816
+    },
+    "ainz_ooal_gown": {
+        "total_appearance": 101,
+        "average_damage_dealt": 326.93412708312417,
+        "average_damage_suffered": 2631.7632217310606,
+        "average_amount_recovered": 631.1953279129087,
+        "average_combat_support": 3944.620720649678
+    },
+    "fairytale_tenebria": {
+        "total_appearance": 392,
+        "average_damage_dealt": 805.8772239125261,
+        "average_damage_suffered": 2388.6341259037226,
+        "average_amount_recovered": 0,
+        "average_combat_support": 5270.7275767689
+    },
+    "little_queen_charlotte": {
+        "total_appearance": 681,
+        "average_damage_dealt": 1618.8219318266742,
+        "average_damage_suffered": 2209.78318204287,
+        "average_amount_recovered": 119.83410525990382,
+        "average_combat_support": 3036.3941309309407
+    },
+    "fighter_maya": {
+        "total_appearance": 30,
+        "average_damage_dealt": 597.131620228958,
+        "average_damage_suffered": 6206.584339524805,
+        "average_amount_recovered": 0,
+        "average_combat_support": 4562.762351302428
+    },
+    "yuna": {
+        "total_appearance": 107,
+        "average_damage_dealt": 1792.9016808260164,
+        "average_damage_suffered": 1925.8961433213024,
+        "average_amount_recovered": 0,
+        "average_combat_support": 6456.582669606526
+    },
+    "rem": {
+        "total_appearance": 371,
+        "average_damage_dealt": 1463.436551631156,
+        "average_damage_suffered": 3475.9353044635836,
+        "average_amount_recovered": 147.9205969841616,
+        "average_combat_support": 4846.295679520385
+    },
+    "milim": {
+        "total_appearance": 677,
+        "average_damage_dealt": 1157.322344646764,
+        "average_damage_suffered": 1738.8307182182652,
+        "average_amount_recovered": 100.6807921690298,
+        "average_combat_support": 4624.030986241987
+    },
+    "benevolent_romann": {
+        "total_appearance": 1008,
+        "average_damage_dealt": 343.99495454721057,
+        "average_damage_suffered": 2606.9026688679096,
+        "average_amount_recovered": 0,
+        "average_combat_support": 3079.1766726410483
+    },
+    "requiemroar": {
+        "total_appearance": 13,
+        "average_damage_dealt": 94.10469432528257,
+        "average_damage_suffered": 2129.11713188772,
+        "average_amount_recovered": 432.20820551997025,
+        "average_combat_support": 1028.4119349604646
+    },
+    "chloe": {
+        "total_appearance": 34,
+        "average_damage_dealt": 996.1712806313851,
+        "average_damage_suffered": 1339.9599135636308,
+        "average_amount_recovered": 0,
+        "average_combat_support": 2582.7636186918307
+    },
+    "all-rounder_wanda": {
+        "total_appearance": 94,
+        "average_damage_dealt": 507.90046233833135,
+        "average_damage_suffered": 1172.9005655032731,
+        "average_amount_recovered": 0,
+        "average_combat_support": 2894.7899509470835
+    },
+    "champion_zerato": {
+        "total_appearance": 144,
+        "average_damage_dealt": 840.784616209909,
+        "average_damage_suffered": 3239.368421106278,
+        "average_amount_recovered": 243.8227675395811,
+        "average_combat_support": 3023.2928837829254
+    },
+    "shooting_star_achates": {
+        "total_appearance": 316,
+        "average_damage_dealt": 0,
+        "average_damage_suffered": 3341.2184077434918,
+        "average_amount_recovered": 172.6780091718378,
+        "average_combat_support": 1606.6111859852483
+    },
+    "challenger_dominiel": {
+        "total_appearance": 130,
+        "average_damage_dealt": 880.1424189336301,
+        "average_damage_suffered": 1350.93077009569,
+        "average_amount_recovered": 0,
+        "average_combat_support": 2283.984121579402
+    },
+    "ainos_2.0": {
+        "total_appearance": 251,
+        "average_damage_dealt": 162.53986918214994,
+        "average_damage_suffered": 2239.5387046533033,
+        "average_amount_recovered": 289.62841196215413,
+        "average_combat_support": 4816.376731768559
+    },
+    "auxiliary_lots": {
+        "total_appearance": 568,
+        "average_damage_dealt": 118.36087452853887,
+        "average_damage_suffered": 2190.5897192262187,
+        "average_amount_recovered": 0,
+        "average_combat_support": 6766.264550291969
+    },
+    "charlotte": {
+        "total_appearance": 152,
+        "average_damage_dealt": 1712.9654636146279,
+        "average_damage_suffered": 3999.909765154084,
+        "average_amount_recovered": 286.8901845030353,
+        "average_combat_support": 7229.391262510139
+    },
+    "sharun": {
+        "total_appearance": 334,
+        "average_damage_dealt": 284.9622370101354,
+        "average_damage_suffered": 2768.322108271595,
+        "average_amount_recovered": 251.26376926100056,
+        "average_combat_support": 2812.0106670648925
+    },
+    "lena": {
+        "total_appearance": 3,
+        "average_damage_dealt": 549.5787037037037,
+        "average_damage_suffered": 2039.8425925925924,
+        "average_amount_recovered": 0,
+        "average_combat_support": 795.2731481481482
+    },
+    "ilynav": {
+        "total_appearance": 280,
+        "average_damage_dealt": 1295.7826580638152,
+        "average_damage_suffered": 2630.4851006962917,
+        "average_amount_recovered": 64.57122132877227,
+        "average_combat_support": 3594.6210522048455
+    },
+    "charles": {
+        "total_appearance": 54,
+        "average_damage_dealt": 959.1928665871258,
+        "average_damage_suffered": 3821.3647296622016,
+        "average_amount_recovered": 0,
+        "average_combat_support": 2414.447848050077
+    },
+    "chaos_sect_axe": {
+        "total_appearance": 44,
+        "average_damage_dealt": 909.1688488097944,
+        "average_damage_suffered": 3560.124068201765,
+        "average_amount_recovered": 215.29144164189418,
+        "average_combat_support": 3305.5745162339476
+    },
+    "armin": {
+        "total_appearance": 556,
+        "average_damage_dealt": 446.0524457082285,
+        "average_damage_suffered": 4470.917263618401,
+        "average_amount_recovered": 485.582107164231,
+        "average_combat_support": 2618.526135055079
+    },
+    "cermia": {
+        "total_appearance": 92,
+        "average_damage_dealt": 977.9102980158467,
+        "average_damage_suffered": 1844.5331493580063,
+        "average_amount_recovered": 0,
+        "average_combat_support": 2351.1528179703932
+    },
+    "flan": {
+        "total_appearance": 305,
+        "average_damage_dealt": 0,
+        "average_damage_suffered": 1930.119670416626,
+        "average_amount_recovered": 0,
+        "average_combat_support": 4634.317171578217
+    },
+    "hwayoung": {
+        "total_appearance": 459,
+        "average_damage_dealt": 1420.9762576021105,
+        "average_damage_suffered": 1721.0875598307837,
+        "average_amount_recovered": 232.49165380960633,
+        "average_combat_support": 4138.291703218873
+    },
+    "achates": {
+        "total_appearance": 18,
+        "average_damage_dealt": 0,
+        "average_damage_suffered": 2381.591321478895,
+        "average_amount_recovered": 843.887129002282,
+        "average_combat_support": 553.9051888009138
+    },
+    "violet": {
+        "total_appearance": 347,
+        "average_damage_dealt": 651.7133351518318,
+        "average_damage_suffered": 2466.621388064448,
+        "average_amount_recovered": 242.283727369509,
+        "average_combat_support": 2720.4983627355823
+    },
+    "talia": {
+        "total_appearance": 2,
+        "average_damage_dealt": 91.63636363636364,
+        "average_damage_suffered": 1916.1420454545455,
+        "average_amount_recovered": 0,
+        "average_combat_support": 216.54545454545453
+    },
+    "mascot_hazel": {
+        "total_appearance": 57,
+        "average_damage_dealt": 71.85041730688573,
+        "average_damage_suffered": 3516.40411582863,
+        "average_amount_recovered": 681.9858936986147,
+        "average_combat_support": 1938.218255410285
+    },
+    "lidica": {
+        "total_appearance": 158,
+        "average_damage_dealt": 600.2922185923056,
+        "average_damage_suffered": 1487.6836791485773,
+        "average_amount_recovered": 0,
+        "average_combat_support": 5580.207224828424
+    },
+    "kitty_clarissa": {
+        "total_appearance": 59,
+        "average_damage_dealt": 104.26455677668669,
+        "average_damage_suffered": 2154.038630409211,
+        "average_amount_recovered": 60.83590114748921,
+        "average_combat_support": 1985.176230998159
+    },
+    "roy_mustang": {
+        "total_appearance": 159,
+        "average_damage_dealt": 1417.0920308083898,
+        "average_damage_suffered": 1210.6470831691554,
+        "average_amount_recovered": 404.4350634841733,
+        "average_combat_support": 3717.2157319008384
+    },
+    "command_model_laika": {
+        "total_appearance": 765,
+        "average_damage_dealt": 225.7986973167286,
+        "average_damage_suffered": 1790.439906781276,
+        "average_amount_recovered": 0,
+        "average_combat_support": 6053.462237503421
+    },
+    "assassin_coli": {
+        "total_appearance": 90,
+        "average_damage_dealt": 1308.1354910144235,
+        "average_damage_suffered": 1245.890630063795,
+        "average_amount_recovered": 0,
+        "average_combat_support": 4460.4502075219025
+    },
+    "vildred": {
+        "total_appearance": 1213,
+        "average_damage_dealt": 2427.575852960973,
+        "average_damage_suffered": 1420.40496348432,
+        "average_amount_recovered": 0,
+        "average_combat_support": 3432.863262488021
+    },
+    "astromancer_elena": {
+        "total_appearance": 432,
+        "average_damage_dealt": 1620.3133116239947,
+        "average_damage_suffered": 1512.8934641546914,
+        "average_amount_recovered": 0,
+        "average_combat_support": 4727.968557186379
+    },
+    "shuna": {
+        "total_appearance": 311,
+        "average_damage_dealt": 53.26210796125278,
+        "average_damage_suffered": 2167.3232317173834,
+        "average_amount_recovered": 422.93532029335387,
+        "average_combat_support": 2636.8191003956945
+    },
+    "tywin": {
+        "total_appearance": 427,
+        "average_damage_dealt": 385.270512752726,
+        "average_damage_suffered": 5108.959741041069,
+        "average_amount_recovered": 272.443584219617,
+        "average_combat_support": 3751.521206732015
+    },
+    "schuri": {
+        "total_appearance": 753,
+        "average_damage_dealt": 695.8629711245935,
+        "average_damage_suffered": 1313.6536995711351,
+        "average_amount_recovered": 0,
+        "average_combat_support": 1249.4064967950978
+    },
+    "surin": {
+        "total_appearance": 223,
+        "average_damage_dealt": 353.8052590084105,
+        "average_damage_suffered": 1678.3948174789443,
+        "average_amount_recovered": 148.84666454621612,
+        "average_combat_support": 1574.1081002286953
+    },
+    "sage_baal_&_sezan": {
+        "total_appearance": 664,
+        "average_damage_dealt": 244.8278876922708,
+        "average_damage_suffered": 3076.4787101289894,
+        "average_amount_recovered": 68.71582275932496,
+        "average_combat_support": 2478.536592355204
+    },
+    "luluca": {
+        "total_appearance": 11,
+        "average_damage_dealt": 303.6825618520806,
+        "average_damage_suffered": 1779.2378441258122,
+        "average_amount_recovered": 96.86855568673751,
+        "average_combat_support": 529.5051963068007
+    },
+    "crimson_armin": {
+        "total_appearance": 1199,
+        "average_damage_dealt": 0,
+        "average_damage_suffered": 4093.4216934952474,
+        "average_amount_recovered": 533.9230845040186,
+        "average_combat_support": 3120.9074348393833
+    },
+    "general_purrgis": {
+        "total_appearance": 146,
+        "average_damage_dealt": 229.46803401904955,
+        "average_damage_suffered": 4053.3530392561224,
+        "average_amount_recovered": 516.4330662475251,
+        "average_combat_support": 2071.0729189597578
+    },
+    "senya": {
+        "total_appearance": 512,
+        "average_damage_dealt": 1007.9589623652347,
+        "average_damage_suffered": 3038.0706798047786,
+        "average_amount_recovered": 508.5999445512534,
+        "average_combat_support": 5211.5492795184255
+    },
+    "commander_pavel": {
+        "total_appearance": 612,
+        "average_damage_dealt": 3503.181997004555,
+        "average_damage_suffered": 1491.3326125340134,
+        "average_amount_recovered": 0,
+        "average_combat_support": 3801.639229613036
+    },
+    "brieg": {
+        "total_appearance": 231,
+        "average_damage_dealt": 486.88370152483265,
+        "average_damage_suffered": 3042.3403676019857,
+        "average_amount_recovered": 801.7232456117209,
+        "average_combat_support": 3021.4977272208293
+    },
+    "fenris": {
+        "total_appearance": 106,
+        "average_damage_dealt": 1835.644868922618,
+        "average_damage_suffered": 1907.7969084669335,
+        "average_amount_recovered": 0,
+        "average_combat_support": 3318.1426285796388
+    },
+    "cerise": {
+        "total_appearance": 380,
+        "average_damage_dealt": 665.960895558104,
+        "average_damage_suffered": 859.1287674751355,
+        "average_amount_recovered": 0,
+        "average_combat_support": 6203.7785547564945
+    },
+    "architect_laika": {
+        "total_appearance": 286,
+        "average_damage_dealt": 3191.7178689744583,
+        "average_damage_suffered": 1539.5456620801308,
+        "average_amount_recovered": 0,
+        "average_combat_support": 6711.856355412725
+    },
+    "fumyr": {
+        "total_appearance": 522,
+        "average_damage_dealt": 387.2864868237343,
+        "average_damage_suffered": 2539.597156455194,
+        "average_amount_recovered": 151.41377112622828,
+        "average_combat_support": 2026.0907290672587
+    },
+    "kise": {
+        "total_appearance": 326,
+        "average_damage_dealt": 2578.140544140145,
+        "average_damage_suffered": 1087.1503164507048,
+        "average_amount_recovered": 153.72983696517792,
+        "average_combat_support": 4888.70941956133
+    },
+    "khawana": {
+        "total_appearance": 146,
+        "average_damage_dealt": 646.4559548230843,
+        "average_damage_suffered": 1539.6987670500316,
+        "average_amount_recovered": 0,
+        "average_combat_support": 5250.0635217305435
+    },
+    "blaze_dingo": {
+        "total_appearance": 75,
+        "average_damage_dealt": 579.2390481007095,
+        "average_damage_suffered": 1646.106099606237,
+        "average_amount_recovered": 534.4775088458296,
+        "average_combat_support": 2357.6047936130917
+    },
+    "dominiel": {
+        "total_appearance": 109,
+        "average_damage_dealt": 498.779615261747,
+        "average_damage_suffered": 2351.3022536652484,
+        "average_amount_recovered": 937.5436863001353,
+        "average_combat_support": 4793.331340453365
+    },
+    "researcher_carrot": {
+        "total_appearance": 123,
+        "average_damage_dealt": 1144.5871268222602,
+        "average_damage_suffered": 2215.8352668369494,
+        "average_amount_recovered": 331.6446289411091,
+        "average_combat_support": 5152.277590454388
+    },
+    "magic_scholar_doris": {
+        "total_appearance": 64,
+        "average_damage_dealt": 0,
+        "average_damage_suffered": 3500.339373712946,
+        "average_amount_recovered": 791.3496926943831,
+        "average_combat_support": 2817.3860190894547
+    },
+    "dizzy": {
+        "total_appearance": 116,
+        "average_damage_dealt": 564.7481882311022,
+        "average_damage_suffered": 2391.7452130447505,
+        "average_amount_recovered": 0,
+        "average_combat_support": 3220.6023332719437
+    },
+    "operator_sigret": {
+        "total_appearance": 254,
+        "average_damage_dealt": 1901.1699814267542,
+        "average_damage_suffered": 1577.3502042131804,
+        "average_amount_recovered": 0,
+        "average_combat_support": 4493.372863564086
+    },
+    "celeste": {
+        "total_appearance": 268,
+        "average_damage_dealt": 669.1013952160548,
+        "average_damage_suffered": 1515.8627181583872,
+        "average_amount_recovered": 0,
+        "average_combat_support": 3625.11606745077
+    },
+    "arunka": {
+        "total_appearance": 73,
+        "average_damage_dealt": 1038.5479632321264,
+        "average_damage_suffered": 2519.238867297409,
+        "average_amount_recovered": 0,
+        "average_combat_support": 1936.5619497644095
+    },
+    "ae-ningning": {
+        "total_appearance": 229,
+        "average_damage_dealt": 435.1814525592957,
+        "average_damage_suffered": 1661.4197170058308,
+        "average_amount_recovered": 0,
+        "average_combat_support": 3136.5036871453335
+    },
+    "doll_maker_pearlhorizon": {
+        "total_appearance": 44,
+        "average_damage_dealt": 459.39051074066936,
+        "average_damage_suffered": 2463.3124000839957,
+        "average_amount_recovered": 0,
+        "average_combat_support": 1811.7016335603848
+    },
+    "troublemaker_crozet": {
+        "total_appearance": 568,
+        "average_damage_dealt": 74.13746958862075,
+        "average_damage_suffered": 4645.655336225445,
+        "average_amount_recovered": 444.13243591964834,
+        "average_combat_support": 2711.9049799724253
+    },
+    "sol": {
+        "total_appearance": 63,
+        "average_damage_dealt": 1094.7979510118653,
+        "average_damage_suffered": 1720.4946653522045,
+        "average_amount_recovered": 0,
+        "average_combat_support": 2064.638232354578
+    },
+    "tempest_surin": {
+        "total_appearance": 185,
+        "average_damage_dealt": 1475.1370543631876,
+        "average_damage_suffered": 1489.1123791464227,
+        "average_amount_recovered": 128.04926929291048,
+        "average_combat_support": 4531.891410519981
+    },
+    "camilla": {
+        "total_appearance": 153,
+        "average_damage_dealt": 214.81098302120793,
+        "average_damage_suffered": 1535.8049205723098,
+        "average_amount_recovered": 0,
+        "average_combat_support": 2320.7318822973116
+    },
+    "shepherd_jena": {
+        "total_appearance": 55,
+        "average_damage_dealt": 264.3568609849836,
+        "average_damage_suffered": 1750.3586783342566,
+        "average_amount_recovered": 0,
+        "average_combat_support": 5584.195813892203
+    },
+    "penelope": {
+        "total_appearance": 79,
+        "average_damage_dealt": 1151.413144709994,
+        "average_damage_suffered": 1198.7864205907997,
+        "average_amount_recovered": 96.8377711490314,
+        "average_combat_support": 2718.511916845496
+    },
+    "pavel": {
+        "total_appearance": 293,
+        "average_damage_dealt": 3125.981237794554,
+        "average_damage_suffered": 1163.6951273430514,
+        "average_amount_recovered": 0,
+        "average_combat_support": 6161.190350360235
+    },
+    "gloomyrain": {
+        "total_appearance": 115,
+        "average_damage_dealt": 279.0544324047649,
+        "average_damage_suffered": 1489.4678057180108,
+        "average_amount_recovered": 0,
+        "average_combat_support": 872.1167952252349
+    },
+    "orte": {
+        "total_appearance": 8,
+        "average_damage_dealt": 1136.5183705183706,
+        "average_damage_suffered": 1073.6277437839938,
+        "average_amount_recovered": 0,
+        "average_combat_support": 4478.761883255634
+    },
+    "ae-giselle": {
+        "total_appearance": 102,
+        "average_damage_dealt": 2541.2907478558654,
+        "average_damage_suffered": 1308.8157733063435,
+        "average_amount_recovered": 0,
+        "average_combat_support": 4124.390676039309
+    },
+    "haste": {
+        "total_appearance": 114,
+        "average_damage_dealt": 1000.4173998866087,
+        "average_damage_suffered": 1904.7168908077476,
+        "average_amount_recovered": 63.21631248472439,
+        "average_combat_support": 5275.62245416452
+    },
+    "christy": {
+        "total_appearance": 56,
+        "average_damage_dealt": 0,
+        "average_damage_suffered": 1193.2966801711016,
+        "average_amount_recovered": 72.2136290924423,
+        "average_combat_support": 503.7121099502054
+    },
+    "sigret": {
+        "total_appearance": 60,
+        "average_damage_dealt": 2504.1106778917674,
+        "average_damage_suffered": 1545.1241177542213,
+        "average_amount_recovered": 0,
+        "average_combat_support": 3978.7868584522193
+    },
+    "guider_aither": {
+        "total_appearance": 76,
+        "average_damage_dealt": 647.383921512434,
+        "average_damage_suffered": 1706.213234531462,
+        "average_amount_recovered": 94.36022932227053,
+        "average_combat_support": 5509.42582380848
+    },
+    "vivian": {
+        "total_appearance": 43,
+        "average_damage_dealt": 710.8725421010205,
+        "average_damage_suffered": 2149.7034292447966,
+        "average_amount_recovered": 77.98089118144198,
+        "average_combat_support": 3136.5160847295606
+    },
+    "roaming_warrior_leo": {
+        "total_appearance": 37,
+        "average_damage_dealt": 905.2274200277141,
+        "average_damage_suffered": 1090.186709635867,
+        "average_amount_recovered": 0,
+        "average_combat_support": 5709.605538849695
+    },
+    "roozid": {
+        "total_appearance": 30,
+        "average_damage_dealt": 0,
+        "average_damage_suffered": 81.98102453102453,
+        "average_amount_recovered": 0,
+        "average_combat_support": 1291.7000942630355
+    },
+    "judith": {
+        "total_appearance": 2,
+        "average_damage_dealt": 0,
+        "average_damage_suffered": 0,
+        "average_amount_recovered": 0,
+        "average_combat_support": 0
+    },
+    "muwi": {
+        "total_appearance": 3,
+        "average_damage_dealt": 341.69047619047615,
+        "average_damage_suffered": 770.1817226890756,
+        "average_amount_recovered": 0,
+        "average_combat_support": 487.8895308123249
+    },
+    "revna": {
+        "total_appearance": 7,
+        "average_damage_dealt": 800.3651491365779,
+        "average_damage_suffered": 812.4180113745903,
+        "average_amount_recovered": 0,
+        "average_combat_support": 1820.0450910931174
+    },
+    "enott": {
+        "total_appearance": 1,
+        "average_damage_dealt": 0,
+        "average_damage_suffered": 0,
+        "average_amount_recovered": 0,
+        "average_combat_support": 0
+    },
+    "godmother": {
+        "total_appearance": 3,
+        "average_damage_dealt": 0,
+        "average_damage_suffered": 764.1137529137528,
+        "average_amount_recovered": 0,
+        "average_combat_support": 1997.3696969696969
+    },
+    "bernard": {
+        "total_appearance": 1,
+        "average_damage_dealt": 0,
+        "average_damage_suffered": 0,
+        "average_amount_recovered": 0,
+        "average_combat_support": 170.53846153846155
+    },
+    "hataan": {
+        "total_appearance": 2,
+        "average_damage_dealt": 0,
+        "average_damage_suffered": 1196.025,
+        "average_amount_recovered": 0,
+        "average_combat_support": 0
+    },
+    "lots": {
+        "total_appearance": 42,
+        "average_damage_dealt": 0,
+        "average_damage_suffered": 2376.229549167972,
+        "average_amount_recovered": 323.7341903244884,
+        "average_combat_support": 1042.0295697426616
+    },
+    "hasol": {
+        "total_appearance": 36,
+        "average_damage_dealt": 738.4304101346462,
+        "average_damage_suffered": 3970.9490632857905,
+        "average_amount_recovered": 284.79858700075965,
+        "average_combat_support": 1835.8313983994603
+    },
+    "celestial_mercedes": {
+        "total_appearance": 5,
+        "average_damage_dealt": 906.3662337662339,
+        "average_damage_suffered": 1465.178961038961,
+        "average_amount_recovered": 73.68571428571428,
+        "average_combat_support": 1119.4761038961037
+    },
+    "falconer_kluri": {
+        "total_appearance": 24,
+        "average_damage_dealt": 0,
+        "average_damage_suffered": 3464.7268772425236,
+        "average_amount_recovered": 428.4611633155987,
+        "average_combat_support": 2310.9550475452934
+    },
+    "elphelt": {
+        "total_appearance": 43,
+        "average_damage_dealt": 654.4838968740131,
+        "average_damage_suffered": 1533.175053499472,
+        "average_amount_recovered": 0,
+        "average_combat_support": 5550.180310322751
+    },
+    "hurado": {
+        "total_appearance": 2,
+        "average_damage_dealt": 114.81818181818181,
+        "average_damage_suffered": 79.6,
+        "average_amount_recovered": 0,
+        "average_combat_support": 1793.7181818181818
+    },
+    "ray": {
+        "total_appearance": 43,
+        "average_damage_dealt": 0,
+        "average_damage_suffered": 2847.451825538614,
+        "average_amount_recovered": 1006.1166061954458,
+        "average_combat_support": 3126.546195071976
+    },
+    "bask": {
+        "total_appearance": 9,
+        "average_damage_dealt": 128.57038847038848,
+        "average_damage_suffered": 1933.3607952857953,
+        "average_amount_recovered": 128.24624624624624,
+        "average_combat_support": 1842.624257224257
+    },
+    "corvus": {
+        "total_appearance": 4,
+        "average_damage_dealt": 233.55,
+        "average_damage_suffered": 2609.5499999999997,
+        "average_amount_recovered": 0,
+        "average_combat_support": 59.21666666666667
+    },
+    "mirsa": {
+        "total_appearance": 32,
+        "average_damage_dealt": 502.7661408173333,
+        "average_damage_suffered": 1644.8867521892396,
+        "average_amount_recovered": 0,
+        "average_combat_support": 1933.0253979436131
+    },
+    "serila": {
+        "total_appearance": 7,
+        "average_damage_dealt": 776.7200753494872,
+        "average_damage_suffered": 1240.209859176771,
+        "average_amount_recovered": 109.30274725274725,
+        "average_combat_support": 2297.898323571853
+    },
+    "adlay": {
+        "total_appearance": 11,
+        "average_damage_dealt": 851.1465453518813,
+        "average_damage_suffered": 755.3219187926697,
+        "average_amount_recovered": 0,
+        "average_combat_support": 2730.6728906798076
+    },
+    "chaos_inquisitor": {
+        "total_appearance": 44,
+        "average_damage_dealt": 931.2362707731561,
+        "average_damage_suffered": 1402.7250634791128,
+        "average_amount_recovered": 258.6574158943442,
+        "average_combat_support": 2952.794857036411
+    },
+    "tamarinne": {
+        "total_appearance": 29,
+        "average_damage_dealt": 80.22832864763396,
+        "average_damage_suffered": 1862.9337604828563,
+        "average_amount_recovered": 713.3110817356167,
+        "average_combat_support": 1163.457521707975
+    },
+    "kizuna_ai": {
+        "total_appearance": 16,
+        "average_damage_dealt": 139.9279298851209,
+        "average_damage_suffered": 1647.752562498858,
+        "average_amount_recovered": 1066.550357811188,
+        "average_combat_support": 2923.8039944778916
+    },
+    "kiris": {
+        "total_appearance": 4,
+        "average_damage_dealt": 203.16259057971016,
+        "average_damage_suffered": 1087.2490942028985,
+        "average_amount_recovered": 0,
+        "average_combat_support": 1171.1517210144925
+    },
+    "lilka": {
+        "total_appearance": 7,
+        "average_damage_dealt": 270.16361416361417,
+        "average_damage_suffered": 2868.032129774987,
+        "average_amount_recovered": 0,
+        "average_combat_support": 1037.5617521367521
+    },
+    "taranor_guard": {
+        "total_appearance": 29,
+        "average_damage_dealt": 1533.1079422694668,
+        "average_damage_suffered": 975.6095310733534,
+        "average_amount_recovered": 0,
+        "average_combat_support": 3079.09529742792
+    },
+    "amiki": {
+        "total_appearance": 10,
+        "average_damage_dealt": 659.9875256819204,
+        "average_damage_suffered": 1274.0185292908845,
+        "average_amount_recovered": 0,
+        "average_combat_support": 2211.5716103545574
+    },
+    "crozet": {
+        "total_appearance": 1,
+        "average_damage_dealt": 298.3529411764706,
+        "average_damage_suffered": 831.1176470588235,
+        "average_amount_recovered": 0,
+        "average_combat_support": 430.05882352941177
+    },
+    "eaton": {
+        "total_appearance": 23,
+        "average_damage_dealt": 0,
+        "average_damage_suffered": 5676.875424917664,
+        "average_amount_recovered": 987.989610241587,
+        "average_combat_support": 3198.8302392105884
+    },
+    "cartuja": {
+        "total_appearance": 2,
+        "average_damage_dealt": 316.40350877192986,
+        "average_damage_suffered": 653.4078947368421,
+        "average_amount_recovered": 124.97368421052632,
+        "average_combat_support": 3138.1140350877195
+    },
+    "angelic_montmorancy": {
+        "total_appearance": 15,
+        "average_damage_dealt": 0,
+        "average_damage_suffered": 2512.7112396712973,
+        "average_amount_recovered": 555.7944226614709,
+        "average_combat_support": 1216.2337063867694
+    },
+    "baiken": {
+        "total_appearance": 31,
+        "average_damage_dealt": 748.751319099763,
+        "average_damage_suffered": 1877.1614627814251,
+        "average_amount_recovered": 0,
+        "average_combat_support": 1699.0658202087986
+    },
+    "commander_lorina": {
+        "total_appearance": 5,
+        "average_damage_dealt": 207.67777777777778,
+        "average_damage_suffered": 1025.8769756387403,
+        "average_amount_recovered": 0,
+        "average_combat_support": 854.7833333333334
+    },
+    "bellona": {
+        "total_appearance": 35,
+        "average_damage_dealt": 435.5361722277457,
+        "average_damage_suffered": 2147.2997418480704,
+        "average_amount_recovered": 0,
+        "average_combat_support": 2398.4234720007553
+    },
+    "ezra": {
+        "total_appearance": 50,
+        "average_damage_dealt": 2214.323509979494,
+        "average_damage_suffered": 1853.4277445507705,
+        "average_amount_recovered": 0,
+        "average_combat_support": 4711.551819480518
+    },
+    "riza_hawkeye": {
+        "total_appearance": 24,
+        "average_damage_dealt": 326.58643588084226,
+        "average_damage_suffered": 1926.1510920389885,
+        "average_amount_recovered": 0,
+        "average_combat_support": 3617.230005395282
+    },
+    "rose": {
+        "total_appearance": 41,
+        "average_damage_dealt": 0,
+        "average_damage_suffered": 2951.085949947585,
+        "average_amount_recovered": 84.34153896598632,
+        "average_combat_support": 2952.052967851335
+    },
+    "gunther": {
+        "total_appearance": 61,
+        "average_damage_dealt": 156.96885393866498,
+        "average_damage_suffered": 2840.8406884575365,
+        "average_amount_recovered": 0,
+        "average_combat_support": 544.5864020744046
+    },
+    "ram": {
+        "total_appearance": 15,
+        "average_damage_dealt": 220.1150009410879,
+        "average_damage_suffered": 1728.3905720413902,
+        "average_amount_recovered": 0,
+        "average_combat_support": 1247.4877055150969
+    },
+    "helen": {
+        "total_appearance": 115,
+        "average_damage_dealt": 366.75551726625326,
+        "average_damage_suffered": 2811.611701700645,
+        "average_amount_recovered": 130.09232882897695,
+        "average_combat_support": 1791.5092335992424
+    },
+    "coli": {
+        "total_appearance": 8,
+        "average_damage_dealt": 397.34317765567766,
+        "average_damage_suffered": 851.8371394230769,
+        "average_amount_recovered": 0,
+        "average_combat_support": 741.8091517857143
+    },
+    "silk": {
+        "total_appearance": 86,
+        "average_damage_dealt": 1149.5921787550246,
+        "average_damage_suffered": 1426.3863529804587,
+        "average_amount_recovered": 0,
+        "average_combat_support": 4939.230140581774
+    },
+    "kikirat_v2": {
+        "total_appearance": 5,
+        "average_damage_dealt": 336.70666666666665,
+        "average_damage_suffered": 6514.869102564102,
+        "average_amount_recovered": 0,
+        "average_combat_support": 2301.0101282051282
+    },
+    "mercenary_helga": {
+        "total_appearance": 2,
+        "average_damage_dealt": 906.5050505050505,
+        "average_damage_suffered": 739.1666666666666,
+        "average_amount_recovered": 0,
+        "average_combat_support": 3742.838383838384
+    },
+    "muse_rima": {
+        "total_appearance": 3,
+        "average_damage_dealt": 115.11509358821188,
+        "average_damage_suffered": 1458.1881114400983,
+        "average_amount_recovered": 0,
+        "average_combat_support": 4030.343376101675
+    },
+    "tieria": {
+        "total_appearance": 1,
+        "average_damage_dealt": 0,
+        "average_damage_suffered": 420.1818181818182,
+        "average_amount_recovered": 0,
+        "average_combat_support": 0
+    },
+    "shadow_rose": {
+        "total_appearance": 24,
+        "average_damage_dealt": 307.4857967808336,
+        "average_damage_suffered": 2594.3392812933257,
+        "average_amount_recovered": 0,
+        "average_combat_support": 2405.070369839855
+    },
+    "angelica": {
+        "total_appearance": 34,
+        "average_damage_dealt": 0,
+        "average_damage_suffered": 2423.1983768201108,
+        "average_amount_recovered": 916.1474966462674,
+        "average_combat_support": 1815.5328748501008
+    },
+    "zeno": {
+        "total_appearance": 2,
+        "average_damage_dealt": 744.6363636363636,
+        "average_damage_suffered": 5947.954545454546,
+        "average_amount_recovered": 0,
+        "average_combat_support": 6217.909090909091
+    },
+    "furious": {
+        "total_appearance": 5,
+        "average_damage_dealt": 301.6498273657289,
+        "average_damage_suffered": 2303.3701939471443,
+        "average_amount_recovered": 0,
+        "average_combat_support": 4466.953906649616
+    },
+    "vigilante_leader_glenn": {
+        "total_appearance": 19,
+        "average_damage_dealt": 1007.1514648786117,
+        "average_damage_suffered": 805.4502470905517,
+        "average_amount_recovered": 0,
+        "average_combat_support": 3102.4789564851894
+    },
+    "holy_flame_adin": {
+        "total_appearance": 10,
+        "average_damage_dealt": 228.69833333333335,
+        "average_damage_suffered": 4460.094451659452,
+        "average_amount_recovered": 96.87682539682541,
+        "average_combat_support": 830.2331313131314
+    },
+    "free_spirit_tieria": {
+        "total_appearance": 4,
+        "average_damage_dealt": 366.55494505494505,
+        "average_damage_suffered": 853.9180975274726,
+        "average_amount_recovered": 115.88186813186815,
+        "average_combat_support": 1805.5824175824175
+    },
+    "sven": {
+        "total_appearance": 19,
+        "average_damage_dealt": 874.6755534916445,
+        "average_damage_suffered": 1466.7644409846666,
+        "average_amount_recovered": 0,
+        "average_combat_support": 2418.5822802887374
+    },
+    "great_chief_khawana": {
+        "total_appearance": 9,
+        "average_damage_dealt": 307.3578797420903,
+        "average_damage_suffered": 2523.7251387014544,
+        "average_amount_recovered": 218.15273654221022,
+        "average_combat_support": 3075.0465662018296
+    },
+    "bomb_model_kanna": {
+        "total_appearance": 21,
+        "average_damage_dealt": 950.365655823733,
+        "average_damage_suffered": 1534.6415666213325,
+        "average_amount_recovered": 96.12019483231889,
+        "average_combat_support": 3100.908017003232
+    },
+    "clarissa": {
+        "total_appearance": 5,
+        "average_damage_dealt": 674.825,
+        "average_damage_suffered": 2194.5058333333336,
+        "average_amount_recovered": 0,
+        "average_combat_support": 1435.3449999999998
+    },
+    "yoonryoung": {
+        "total_appearance": 4,
+        "average_damage_dealt": 162.9,
+        "average_damage_suffered": 3090.4361842105263,
+        "average_amount_recovered": 198.71052631578948,
+        "average_combat_support": 2194.6625
+    },
+    "aither": {
+        "total_appearance": 10,
+        "average_damage_dealt": 0,
+        "average_damage_suffered": 2194.495889724311,
+        "average_amount_recovered": 450.14585714285715,
+        "average_combat_support": 1002.1364243943192
+    },
+    "captain_rikoris": {
+        "total_appearance": 11,
+        "average_damage_dealt": 599.6921903853722,
+        "average_damage_suffered": 1728.6681106772019,
+        "average_amount_recovered": 62.429243483788945,
+        "average_combat_support": 2323.5036713286713
+    },
+    "suthan": {
+        "total_appearance": 4,
+        "average_damage_dealt": 0,
+        "average_damage_suffered": 367.82114624505925,
+        "average_amount_recovered": 0,
+        "average_combat_support": 0
+    },
+    "romann": {
+        "total_appearance": 1,
+        "average_damage_dealt": 431.6666666666667,
+        "average_damage_suffered": 3822.0,
+        "average_amount_recovered": 0,
+        "average_combat_support": 4960.0
+    },
+    "mistychain": {
+        "total_appearance": 2,
+        "average_damage_dealt": 401.5740740740741,
+        "average_damage_suffered": 2120.453703703704,
+        "average_amount_recovered": 77.68518518518519,
+        "average_combat_support": 8605.99074074074
+    },
+    "jecht": {
+        "total_appearance": 1,
+        "average_damage_dealt": 0,
+        "average_damage_suffered": 0,
+        "average_amount_recovered": 0,
+        "average_combat_support": 0
+    },
+    "talaz": {
+        "total_appearance": 1,
+        "average_damage_dealt": 0,
+        "average_damage_suffered": 990.3529411764706,
+        "average_amount_recovered": 0,
+        "average_combat_support": 0
+    },
+    "dingo": {
+        "total_appearance": 2,
+        "average_damage_dealt": 238.96666666666667,
+        "average_damage_suffered": 4638.5,
+        "average_amount_recovered": 0,
+        "average_combat_support": 1623.7666666666667
+    },
+    "batisse": {
+        "total_appearance": 19,
+        "average_damage_dealt": 536.8151945116423,
+        "average_damage_suffered": 1695.803381362134,
+        "average_amount_recovered": 0,
+        "average_combat_support": 809.8225736880577
+    },
+    "zealot_carmainerose": {
+        "total_appearance": 3,
+        "average_damage_dealt": 361.0740740740741,
+        "average_damage_suffered": 1886.2962962962963,
+        "average_amount_recovered": 0,
+        "average_combat_support": 1606.675925925926
+    },
+    "karin": {
+        "total_appearance": 12,
+        "average_damage_dealt": 799.9112290235931,
+        "average_damage_suffered": 1641.3757556855383,
+        "average_amount_recovered": 0,
+        "average_combat_support": 2139.8943379939305
+    },
+    "mucacha": {
+        "total_appearance": 3,
+        "average_damage_dealt": 0,
+        "average_damage_suffered": 866.0277777777778,
+        "average_amount_recovered": 0,
+        "average_combat_support": 0
+    },
+    "church_of_ilryos_axe": {
+        "total_appearance": 2,
+        "average_damage_dealt": 0,
+        "average_damage_suffered": 229.60000000000002,
+        "average_amount_recovered": 0,
+        "average_combat_support": 0
+    },
+    "lucy": {
+        "total_appearance": 1,
+        "average_damage_dealt": 0,
+        "average_damage_suffered": 52.75,
+        "average_amount_recovered": 141.58333333333334,
+        "average_combat_support": 640.0
+    },
+    "adin": {
+        "total_appearance": 4,
+        "average_damage_dealt": 0,
+        "average_damage_suffered": 420.0551948051948,
+        "average_amount_recovered": 0,
+        "average_combat_support": 640.3988095238094
+    },
+    "pearlhorizon": {
+        "total_appearance": 1,
+        "average_damage_dealt": 63.0,
+        "average_damage_suffered": 0,
+        "average_amount_recovered": 0,
+        "average_combat_support": 2434.769230769231
+    },
+    "elson": {
+        "total_appearance": 7,
+        "average_damage_dealt": 0,
+        "average_damage_suffered": 3133.4991688983287,
+        "average_amount_recovered": 124.91993720565151,
+        "average_combat_support": 1616.9429771908763
+    },
+    "leo": {
+        "total_appearance": 2,
+        "average_damage_dealt": 146.81851851851852,
+        "average_damage_suffered": 1370.3592592592593,
+        "average_amount_recovered": 0,
+        "average_combat_support": 114.17777777777778
+    },
+    "rikoris": {
+        "total_appearance": 1,
+        "average_damage_dealt": 0,
+        "average_damage_suffered": 0,
+        "average_amount_recovered": 0,
+        "average_combat_support": 0
+    },
+    "righteous_thief_roozid": {
+        "total_appearance": 1,
+        "average_damage_dealt": 0,
+        "average_damage_suffered": 3136.8,
+        "average_amount_recovered": 0,
+        "average_combat_support": 2996.0
+    },
+    "carrot": {
+        "total_appearance": 1,
+        "average_damage_dealt": 0,
+        "average_damage_suffered": 0,
+        "average_amount_recovered": 0,
+        "average_combat_support": 0
+    }
+}

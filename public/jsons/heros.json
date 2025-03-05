@@ -1,0 +1,1038 @@
+{
+    "ravi": {
+        "id": "c1019",
+        "name": "Ravi",
+        "other_names": [],
+        "element": "fire",
+        "class": "warrior",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c1019_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c1019"
+    },
+    "jack-o'": {
+        "id": "c1130",
+        "name": "Jack-O'",
+        "other_names": [],
+        "element": "fire",
+        "class": "warrior",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c1130_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c1130"
+    },
+    "edward_elric": {
+        "id": "c1134",
+        "name": "Edward Elric",
+        "other_names": [],
+        "element": "fire",
+        "class": "warrior",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c1134_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c1134"
+    },
+    "abigail": {
+        "id": "c1144",
+        "name": "Abigail",
+        "other_names": [],
+        "element": "fire",
+        "class": "warrior",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c1144_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c1144"
+    },
+    "benimaru": {
+        "id": "c1146",
+        "name": "Benimaru",
+        "other_names": [],
+        "element": "fire",
+        "class": "warrior",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c1146_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c1146"
+    },
+    "shalltear": {
+        "id": "c1157",
+        "name": "Shalltear",
+        "other_names": [],
+        "element": "fire",
+        "class": "warrior",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c1157_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c1157"
+    },
+    "lilias": {
+        "id": "c1089",
+        "name": "Lilias",
+        "other_names": [],
+        "element": "fire",
+        "class": "knight",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c1089_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c1089"
+    },
+    "adventurer_ras": {
+        "id": "c5001",
+        "name": "Adventurer Ras",
+        "other_names": [],
+        "element": "fire",
+        "class": "knight",
+        "star": "3",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c5001_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c5001"
+    },
+    "kayron": {
+        "id": "c1023",
+        "name": "Kayron",
+        "other_names": [],
+        "element": "fire",
+        "class": "thief",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c1023_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c1023"
+    },
+    "jenua": {
+        "id": "c1055",
+        "name": "Jenua",
+        "other_names": [],
+        "element": "fire",
+        "class": "thief",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c1055_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c1055"
+    },
+    "tori": {
+        "id": "c1171",
+        "name": "Tori",
+        "other_names": [],
+        "element": "fire",
+        "class": "thief",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c1171_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c1171"
+    },
+    "eligos": {
+        "id": "c1142",
+        "name": "Eligos",
+        "other_names": [],
+        "element": "fire",
+        "class": "ranger",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c1142_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c1142"
+    },
+    "nahkwol": {
+        "id": "c1151",
+        "name": "Nahkwol",
+        "other_names": [],
+        "element": "fire",
+        "class": "ranger",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c1151_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c1151"
+    },
+    "summertime_iseria": {
+        "id": "c5024",
+        "name": "Summertime Iseria",
+        "other_names": [],
+        "element": "fire",
+        "class": "ranger",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c5024_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c5024"
+    },
+    "afternoon_soak_flan": {
+        "id": "c5110",
+        "name": "Afternoon Soak Flan",
+        "other_names": [],
+        "element": "fire",
+        "class": "ranger",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c5110_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c5110"
+    },
+    "veronica": {
+        "id": "c1150",
+        "name": "Veronica",
+        "other_names": [],
+        "element": "fire",
+        "class": "ranger",
+        "star": "4",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c1150_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c1150"
+    },
+    "melissa": {
+        "id": "c1096",
+        "name": "Melissa",
+        "other_names": [],
+        "element": "fire",
+        "class": "mage",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c1096_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c1096"
+    },
+    "politis": {
+        "id": "c1112",
+        "name": "Politis",
+        "other_names": [],
+        "element": "fire",
+        "class": "mage",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c1112_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c1112"
+    },
+    "festive_eda": {
+        "id": "c5111",
+        "name": "Festive Eda",
+        "other_names": [],
+        "element": "fire",
+        "class": "mage",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c5111_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c5111"
+    },
+    "inheritor_amiki": {
+        "id": "c4158",
+        "name": "Inheritor Amiki",
+        "other_names": [],
+        "element": "ice",
+        "class": "warrior",
+        "star": "3",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c4158_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c4158"
+    },
+    "krau": {
+        "id": "c1070",
+        "name": "Krau",
+        "other_names": [],
+        "element": "ice",
+        "class": "knight",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c1070_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c1070"
+    },
+    "ae-karina": {
+        "id": "c1137",
+        "name": "ae-KARINA",
+        "other_names": [],
+        "element": "ice",
+        "class": "knight",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c1137_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c1137"
+    },
+    "sez": {
+        "id": "c1038",
+        "name": "Sez",
+        "other_names": [],
+        "element": "ice",
+        "class": "thief",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c1038_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c1038"
+    },
+    "ran": {
+        "id": "c1118",
+        "name": "Ran",
+        "other_names": [],
+        "element": "ice",
+        "class": "thief",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c1118_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c1118"
+    },
+    "peira": {
+        "id": "c1125",
+        "name": "Peira",
+        "other_names": [],
+        "element": "ice",
+        "class": "thief",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c1125_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c1125"
+    },
+    "elvira": {
+        "id": "c1148",
+        "name": "Elvira",
+        "other_names": [],
+        "element": "ice",
+        "class": "thief",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c1148_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c1148"
+    },
+    "lua": {
+        "id": "c1126",
+        "name": "Lua",
+        "other_names": [],
+        "element": "ice",
+        "class": "ranger",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c1126_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c1126"
+    },
+    "aria": {
+        "id": "c1129",
+        "name": "Aria",
+        "other_names": [],
+        "element": "ice",
+        "class": "mage",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c1129_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c1129"
+    },
+    "diene": {
+        "id": "c1076",
+        "name": "Diene",
+        "other_names": [],
+        "element": "ice",
+        "class": "soul_weaver",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c1076_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c1076"
+    },
+    "elena": {
+        "id": "c1091",
+        "name": "Elena",
+        "other_names": [],
+        "element": "ice",
+        "class": "soul_weaver",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c1091_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c1091"
+    },
+    "amid": {
+        "id": "c1143",
+        "name": "Amid",
+        "other_names": [],
+        "element": "ice",
+        "class": "soul_weaver",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c1143_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c1143"
+    },
+    "frida": {
+        "id": "c1163",
+        "name": "Frida",
+        "other_names": [],
+        "element": "ice",
+        "class": "soul_weaver",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c1163_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c1163"
+    },
+    "fenne": {
+        "id": "c1170",
+        "name": "Fenne",
+        "other_names": [],
+        "element": "ice",
+        "class": "soul_weaver",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c1170_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c1170"
+    },
+    "yufine": {
+        "id": "c1016",
+        "name": "Yufine",
+        "other_names": [],
+        "element": "earth",
+        "class": "warrior",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c1016_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c1016"
+    },
+    "alencia": {
+        "id": "c1100",
+        "name": "Alencia",
+        "other_names": [],
+        "element": "earth",
+        "class": "warrior",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c1100_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c1100"
+    },
+    "rimuru": {
+        "id": "c1121",
+        "name": "Rimuru",
+        "other_names": [],
+        "element": "earth",
+        "class": "warrior",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c1121_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c1121"
+    },
+    "laia": {
+        "id": "c1159",
+        "name": "Laia",
+        "other_names": [],
+        "element": "earth",
+        "class": "warrior",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c1159_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c1159"
+    },
+    "immortal_wukong": {
+        "id": "c1161",
+        "name": "Immortal Wukong",
+        "other_names": [],
+        "element": "earth",
+        "class": "warrior",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c1161_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c1161"
+    },
+    "mort": {
+        "id": "c1104",
+        "name": "Mort",
+        "other_names": [],
+        "element": "earth",
+        "class": "knight",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c1104_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c1104"
+    },
+    "yulha": {
+        "id": "c1131",
+        "name": "Yulha",
+        "other_names": [],
+        "element": "earth",
+        "class": "knight",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c1131_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c1131"
+    },
+    "albedo": {
+        "id": "c1156",
+        "name": "Albedo",
+        "other_names": [],
+        "element": "earth",
+        "class": "knight",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c1156_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c1156"
+    },
+    "silvertide_christy": {
+        "id": "c4123",
+        "name": "Silvertide Christy",
+        "other_names": [],
+        "element": "earth",
+        "class": "knight",
+        "star": "3",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c4123_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c4123"
+    },
+    "vildred": {
+        "id": "c1007",
+        "name": "Vildred",
+        "other_names": [],
+        "element": "earth",
+        "class": "thief",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c1007_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c1007"
+    },
+    "celine": {
+        "id": "c1103",
+        "name": "Celine",
+        "other_names": [],
+        "element": "earth",
+        "class": "thief",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c1103_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c1103"
+    },
+    "blooming_lidica": {
+        "id": "c5046",
+        "name": "Blooming Lidica",
+        "other_names": [],
+        "element": "earth",
+        "class": "thief",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c5046_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c5046"
+    },
+    "midnight_gala_lilias": {
+        "id": "c5089",
+        "name": "Midnight Gala Lilias",
+        "other_names": [],
+        "element": "earth",
+        "class": "thief",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c5089_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c5089"
+    },
+    "cidd": {
+        "id": "c1014",
+        "name": "Cidd",
+        "other_names": [],
+        "element": "earth",
+        "class": "thief",
+        "star": "4",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c1014_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c1014"
+    },
+    "schniel": {
+        "id": "c1060",
+        "name": "Schniel",
+        "other_names": [],
+        "element": "earth",
+        "class": "soul_weaver",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c1060_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c1060"
+    },
+    "roana": {
+        "id": "c1102",
+        "name": "Roana",
+        "other_names": [],
+        "element": "earth",
+        "class": "soul_weaver",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c1102_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c1102"
+    },
+    "young_senya": {
+        "id": "c1162",
+        "name": "Young Senya",
+        "other_names": [],
+        "element": "earth",
+        "class": "soul_weaver",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c1162_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c1162"
+    },
+    "lionheart_cermia": {
+        "id": "c2079",
+        "name": "Lionheart Cermia",
+        "other_names": [],
+        "element": "light",
+        "class": "warrior",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c2079_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c2079"
+    },
+    "conqueror_lilias": {
+        "id": "c2089",
+        "name": "Conqueror Lilias",
+        "other_names": [],
+        "element": "light",
+        "class": "warrior",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c2089_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c2089"
+    },
+    "belian": {
+        "id": "c1117",
+        "name": "Belian",
+        "other_names": [],
+        "element": "light",
+        "class": "knight",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c1117_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c1117"
+    },
+    "ambitious_tywin": {
+        "id": "c2042",
+        "name": "Ambitious Tywin",
+        "other_names": [],
+        "element": "light",
+        "class": "knight",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c2042_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c2042"
+    },
+    "last_rider_krau": {
+        "id": "c2070",
+        "name": "Last Rider Krau",
+        "other_names": [],
+        "element": "light",
+        "class": "knight",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c2070_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c2070"
+    },
+    "dragon_bride_senya": {
+        "id": "c2106",
+        "name": "Dragon Bride Senya",
+        "other_names": [],
+        "element": "light",
+        "class": "knight",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c2106_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c2106"
+    },
+    "navy_captain_landy": {
+        "id": "c2109",
+        "name": "Navy Captain Landy",
+        "other_names": [],
+        "element": "light",
+        "class": "knight",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c2109_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c2109"
+    },
+    "empyrean_ilynav": {
+        "id": "c2113",
+        "name": "Empyrean Ilynav",
+        "other_names": [],
+        "element": "light",
+        "class": "knight",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c2113_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c2113"
+    },
+    "crimson_armin": {
+        "id": "c2008",
+        "name": "Crimson Armin",
+        "other_names": [],
+        "element": "light",
+        "class": "knight",
+        "star": "4",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c2008_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c2008"
+    },
+    "unbound_knight_arowell": {
+        "id": "c4004",
+        "name": "Unbound Knight Arowell",
+        "other_names": [],
+        "element": "light",
+        "class": "knight",
+        "star": "3",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c4004_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c4004"
+    },
+    "twisted_eidolon_kayron": {
+        "id": "c2023",
+        "name": "Twisted Eidolon Kayron",
+        "other_names": [],
+        "element": "light",
+        "class": "thief",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c2023_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c2023"
+    },
+    "spirit_eye_celine": {
+        "id": "c2103",
+        "name": "Spirit Eye Celine",
+        "other_names": [],
+        "element": "light",
+        "class": "thief",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c2103_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c2103"
+    },
+    "last_piece_karin": {
+        "id": "c6011",
+        "name": "Last Piece Karin",
+        "other_names": [],
+        "element": "light",
+        "class": "thief",
+        "star": "4",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c6011_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c6011"
+    },
+    "savior_adin": {
+        "id": "c4144",
+        "name": "Savior Adin",
+        "other_names": [],
+        "element": "light",
+        "class": "thief",
+        "star": "3",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c4144_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c4144"
+    },
+    "faithless_lidica": {
+        "id": "c2046",
+        "name": "Faithless Lidica",
+        "other_names": [],
+        "element": "light",
+        "class": "ranger",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c2046_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c2046"
+    },
+    "wanderer_silk": {
+        "id": "c2004",
+        "name": "Wanderer Silk",
+        "other_names": [],
+        "element": "light",
+        "class": "ranger",
+        "star": "4",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c2004_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c2004"
+    },
+    "silver_blade_aramintha": {
+        "id": "c2048",
+        "name": "Silver Blade Aramintha",
+        "other_names": [],
+        "element": "light",
+        "class": "mage",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c2048_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c2048"
+    },
+    "new_moon_luna": {
+        "id": "c2066",
+        "name": "New Moon Luna",
+        "other_names": [],
+        "element": "light",
+        "class": "mage",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c2066_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c2066"
+    },
+    "sylvan_sage_vivian": {
+        "id": "c2088",
+        "name": "Sylvan Sage Vivian",
+        "other_names": [],
+        "element": "light",
+        "class": "mage",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c2088_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c2088"
+    },
+    "solitaria_of_the_snow": {
+        "id": "c2111",
+        "name": "Solitaria of the Snow",
+        "other_names": [],
+        "element": "light",
+        "class": "mage",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c2111_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c2111"
+    },
+    "angel_of_light_angelica": {
+        "id": "c6062",
+        "name": "Angel of Light Angelica",
+        "other_names": [],
+        "element": "light",
+        "class": "mage",
+        "star": "4",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c6062_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c6062"
+    },
+    "ruele_of_light": {
+        "id": "c1022",
+        "name": "Ruele of Light",
+        "other_names": [],
+        "element": "light",
+        "class": "soul_weaver",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c1022_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c1022"
+    },
+    "dragon_king_sharun": {
+        "id": "c2132",
+        "name": "Dragon King Sharun",
+        "other_names": [],
+        "element": "light",
+        "class": "soul_weaver",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c2132_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c2132"
+    },
+    "infinite_horizon_achates": {
+        "id": "c6017",
+        "name": "Infinite Horizon Achates",
+        "other_names": [],
+        "element": "light",
+        "class": "soul_weaver",
+        "star": "4",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c6017_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c6017"
+    },
+    "moon_bunny_dominiel": {
+        "id": "c6037",
+        "name": "Moon Bunny Dominiel",
+        "other_names": [],
+        "element": "light",
+        "class": "soul_weaver",
+        "star": "4",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c6037_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c6037"
+    },
+    "martial_artist_ken": {
+        "id": "c2047",
+        "name": "Martial Artist Ken",
+        "other_names": [],
+        "element": "dark",
+        "class": "warrior",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c2047_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c2047"
+    },
+    "lone_crescent_bellona": {
+        "id": "c2071",
+        "name": "Lone Crescent Bellona",
+        "other_names": [],
+        "element": "dark",
+        "class": "warrior",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c2071_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c2071"
+    },
+    "mediator_kawerik": {
+        "id": "c2073",
+        "name": "Mediator Kawerik",
+        "other_names": [],
+        "element": "dark",
+        "class": "warrior",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c2073_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c2073"
+    },
+    "designer_lilibet": {
+        "id": "c2095",
+        "name": "Designer Lilibet",
+        "other_names": [],
+        "element": "dark",
+        "class": "warrior",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c2095_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c2095"
+    },
+    "urban_shadow_choux": {
+        "id": "c2101",
+        "name": "Urban Shadow Choux",
+        "other_names": [],
+        "element": "dark",
+        "class": "warrior",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c2101_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c2101"
+    },
+    "lone_wolf_peira": {
+        "id": "c2125",
+        "name": "Lone Wolf Peira",
+        "other_names": [],
+        "element": "dark",
+        "class": "warrior",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c2125_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c2125"
+    },
+    "bystander_hwayoung": {
+        "id": "c2128",
+        "name": "Bystander Hwayoung",
+        "other_names": [],
+        "element": "dark",
+        "class": "warrior",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c2128_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c2128"
+    },
+    "fallen_cecilia": {
+        "id": "c2002",
+        "name": "Fallen Cecilia",
+        "other_names": [],
+        "element": "dark",
+        "class": "knight",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c2002_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c2002"
+    },
+    "abyssal_yufine": {
+        "id": "c2016",
+        "name": "Abyssal Yufine",
+        "other_names": [],
+        "element": "dark",
+        "class": "knight",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c2016_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c2016"
+    },
+    "arbiter_vildred": {
+        "id": "c2007",
+        "name": "Arbiter Vildred",
+        "other_names": [],
+        "element": "dark",
+        "class": "thief",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c2007_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c2007"
+    },
+    "closer_charles": {
+        "id": "c2027",
+        "name": "Closer Charles",
+        "other_names": [],
+        "element": "dark",
+        "class": "thief",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c2027_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c2027"
+    },
+    "remnant_violet": {
+        "id": "c2074",
+        "name": "Remnant Violet",
+        "other_names": [],
+        "element": "dark",
+        "class": "thief",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c2074_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c2074"
+    },
+    "blood_blade_karin": {
+        "id": "c2011",
+        "name": "Blood Blade Karin",
+        "other_names": [],
+        "element": "dark",
+        "class": "thief",
+        "star": "4",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c2011_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c2011"
+    },
+    "briar_witch_iseria": {
+        "id": "c2024",
+        "name": "Briar Witch Iseria",
+        "other_names": [],
+        "element": "dark",
+        "class": "ranger",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c2024_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c2024"
+    },
+    "pirate_captain_flan": {
+        "id": "c2110",
+        "name": "Pirate Captain Flan",
+        "other_names": [],
+        "element": "dark",
+        "class": "ranger",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c2110_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c2110"
+    },
+    "sea_phantom_politis": {
+        "id": "c2112",
+        "name": "Sea Phantom Politis",
+        "other_names": [],
+        "element": "dark",
+        "class": "ranger",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c2112_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c2112"
+    },
+    "hellion_lua": {
+        "id": "c2126",
+        "name": "Hellion Lua",
+        "other_names": [],
+        "element": "dark",
+        "class": "ranger",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c2126_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c2126"
+    },
+    "westwind_executioner_schuri": {
+        "id": "c6020",
+        "name": "Westwind Executioner Schuri",
+        "other_names": [],
+        "element": "dark",
+        "class": "ranger",
+        "star": "4",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c6020_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c6020"
+    },
+    "zio": {
+        "id": "c1133",
+        "name": "Zio",
+        "other_names": [],
+        "element": "dark",
+        "class": "mage",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c1133_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c1133"
+    },
+    "harsetti": {
+        "id": "c1153",
+        "name": "Harsetti",
+        "other_names": [],
+        "element": "dark",
+        "class": "mage",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c1153_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c1153"
+    },
+    "specter_tenebria": {
+        "id": "c2050",
+        "name": "Specter Tenebria",
+        "other_names": [],
+        "element": "dark",
+        "class": "mage",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c2050_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c2050"
+    },
+    "eternal_wanderer_ludwig": {
+        "id": "c2069",
+        "name": "Eternal Wanderer Ludwig",
+        "other_names": [],
+        "element": "dark",
+        "class": "mage",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c2069_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c2069"
+    },
+    "top_model_luluca": {
+        "id": "c2082",
+        "name": "Top Model Luluca",
+        "other_names": [],
+        "element": "dark",
+        "class": "mage",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c2082_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c2082"
+    },
+    "requiem_roana": {
+        "id": "c2102",
+        "name": "Requiem Roana",
+        "other_names": [],
+        "element": "dark",
+        "class": "mage",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c2102_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c2102"
+    },
+    "archdemon's_shadow": {
+        "id": "c5004",
+        "name": "Archdemon's Shadow",
+        "other_names": [],
+        "element": "dark",
+        "class": "mage",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c5004_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c5004"
+    },
+    "blood_moon_haste": {
+        "id": "c2039",
+        "name": "Blood Moon Haste",
+        "other_names": [],
+        "element": "dark",
+        "class": "soul_weaver",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c2039_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c2039"
+    },
+    "death_dealer_ray": {
+        "id": "c2090",
+        "name": "Death Dealer Ray",
+        "other_names": [],
+        "element": "dark",
+        "class": "soul_weaver",
+        "star": "5",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c2090_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c2090"
+    },
+    "sinful_angelica": {
+        "id": "c2062",
+        "name": "Sinful Angelica",
+        "other_names": [],
+        "element": "dark",
+        "class": "soul_weaver",
+        "star": "4",
+        "avatar_link": "https://static.smilegatemegaport.com/event/live/epic7/guide/images/hero/c2062_s.png",
+        "profile_link": "https://epic7.onstove.com/en/gg/herorecord/c2062"
+    },
+    "undefined": {
+        "name": "",
+        "element": "undefined",
+        "class": "undefined",
+        "star": "undefined"
+    }
+}
