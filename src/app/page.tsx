@@ -1,6 +1,5 @@
 import fs from "fs";
 import path from "path";
-import Image from "next/image";
 
 import "./_app.css"
 import ClientComponents from "./client_components";

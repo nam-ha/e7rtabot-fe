@@ -69,7 +69,7 @@ interface ClientComponentsProps  {
     herosCode: string[];
     heros: any;
 }
-/* eslint-disable @typescript-eslint/no-explicit-any */
+/* eslint-enable @typescript-eslint/no-explicit-any */
 
 export default function ClientComponents(
   {
@@ -213,7 +213,7 @@ export default function ClientComponents(
 
       validatePicks();
     },
-    [myPicks, oppPicks, myPostbanIndex, oppPostbanIndex] // eslint-disable-line react-hooks/exhaustive-deps
+    [myPicks, oppPicks, myPostbanIndex, oppPostbanIndex]
   )
 
   function clearFilters() {
