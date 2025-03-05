@@ -353,7 +353,7 @@ export default function ClientComponents(
     setIsBtnSubmitDisabled(true);
 
     try {
-      const response = await fetch("http://localhost:8000/api/v1/predict", {
+      const response = await fetch("https://e7rtabot-api-1030067260954.us-central1.run.app", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
@@ -440,7 +440,7 @@ export default function ClientComponents(
   }
 
   return (
-    <main id="main-body" className="flex flex-col items-center justify-center w-full h-full p-16">
+    <main id="main-body" className="flex flex-col items-center justify-center w-full h-full pl-16 pr-16">
       <div id="cont-announcement" className="flex flex-wrap w-full border-2 rounded-b-xl border-gray-500 p-6">
         <h1 id="h1-announcement-header" className="flex items-center w-full text-2xl font-bold">
           Welcome!
@@ -589,7 +589,7 @@ export default function ClientComponents(
               disabled={isBtnSubmitDisabled}
               onClick={() => getAPIPredict()}
             > 
-              Predict 
+              Analyze 
             </button>
           </div>
         </div>
