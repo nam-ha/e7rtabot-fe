@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   description: "Epic7 RTA match-ups analysis. Give you more insights and interest in RTA. Pick wiser and win more!",
 };
 
-export function Navbar() {
+function Navbar() {
   return (
     <nav className="grid grid-cols-[0.3fr_0.4fr_0.3fr] h-24 w-full text-white pl-16 pr-16 items-center">
       <h1 className="text-3xl font-bold">E7 RTA Bot</h1>
@@ -51,7 +51,7 @@ export function Navbar() {
   );
 }
 
-export function Footer() {
+function Footer() {
   return (
     <footer className="grid grid-cols-[0.4fr_0.3fr_0.3fr] h-32 w-full text-white pl-16 pr-16 items-center">
       <p> The data used in this application is collected from <a href="https://epic7.onstove.com/en/gg" className="text-blue-500 hover:underline"> Epic7 Match History </a> </p>
