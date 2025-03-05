@@ -1,6 +1,6 @@
 "use client";
 
-import React, {useState, useEffect, use} from "react";
+import React, {useState, useEffect} from "react";
 import Image from "next/image";
 
 const elementsName = ["fire", "ice", "earth", "light", "dark"];
@@ -64,17 +64,17 @@ interface PicksProps {
   herosName: string[];
 }
 
+/* eslint-disable @typescript-eslint/no-explicit-any */
 interface ClientComponentsProps  {
     herosCode: string[];
     heros: any;
-    herosStats: any;
 }
+/* eslint-disable @typescript-eslint/no-explicit-any */
 
 export default function ClientComponents(
   {
       herosCode,
       heros,
-      herosStats
   }: ClientComponentsProps
 )
 {
@@ -198,7 +198,7 @@ export default function ClientComponents(
 
       filterHeros();
     },
-    [classesFilter, elementsFilter, starsFilter, myPicks, oppPicks]
+    [classesFilter, elementsFilter, starsFilter, myPicks, oppPicks] // eslint-disable-line react-hooks/exhaustive-deps
   )
 
   useEffect(
@@ -213,7 +213,7 @@ export default function ClientComponents(
 
       validatePicks();
     },
-    [myPicks, oppPicks, myPostbanIndex, oppPostbanIndex]
+    [myPicks, oppPicks, myPostbanIndex, oppPostbanIndex] // eslint-disable-line react-hooks/exhaustive-deps
   )
 
   function clearFilters() {
@@ -662,7 +662,7 @@ export default function ClientComponents(
           </div>
           
           <div id="cont-result-my-team" className="w-full p-8 border-2 border-gray-800">
-            <h3 className="text-2xl font-bold"> Opponent's team Analysis </h3>
+            <h3 className="text-2xl font-bold"> Opponent&apos;s team Analysis </h3>
 
             <div className="grid grid-cols-3 gap-4 w-full">
               <div id="cont-my-team-dd" className="col-span-1 col-start-1 flex flex-col w-full">
