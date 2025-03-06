@@ -353,7 +353,7 @@ export default function ClientComponents(
     setIsBtnSubmitDisabled(true);
 
     try {
-      const response = await fetch("https://e7rtabot-api-1030067260954.us-central1.run.app", {
+      const response = await fetch("https://e7rtabot-api-1030067260954.us-central1.run.app/api/v1/predict", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
